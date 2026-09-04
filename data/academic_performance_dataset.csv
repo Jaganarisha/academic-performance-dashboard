@@ -1,0 +1,1001 @@
+Student ID,Student Name,Gender,Age,Department,Year,Semester,Subject,Internal Marks,Assignment Marks,Practical Marks,Theory Marks,Total Marks,Grade,GPA,Attendance Percentage,Pass/Fail Status
+S0001,Student 0001,Female,18,Information Technology,1,5,Data Structures,21,7,9,41,78,A,7.3,89,Pass
+S0002,Student 0002,Female,19,Information Technology,1,4,Data Structures,26,10,8,37,81,A+,8.36,67,Fail
+S0003,Student 0003,Female,18,Mechanical,3,1,Data Structures,29,9,13,28,79,A,7.56,64,Fail
+S0004,Student 0004,Male,21,Information Technology,4,2,DBMS,23,10,12,45,90,O,9.28,57,Fail
+S0005,Student 0005,Male,24,Information Technology,3,6,Machine Learning,21,6,8,41,76,A,7.93,69,Fail
+S0006,Student 0006,Female,23,Computer Science,1,7,DBMS,25,8,10,31,74,A,7.05,77,Pass
+S0007,Student 0007,Male,23,Information Technology,2,4,Data Structures,25,9,12,49,95,O,9.73,95,Pass
+S0008,Student 0008,Female,19,Electronics,1,4,Python,30,8,14,28,80,A+,7.65,59,Fail
+S0009,Student 0009,Female,22,Mechanical,4,8,Data Structures,22,7,11,43,83,A+,8.35,90,Pass
+S0010,Student 0010,Male,23,Mechanical,3,4,Data Structures,26,9,9,44,88,A+,9.23,58,Fail
+S0011,Student 0011,Male,23,Computer Science,4,2,Cloud Computing,24,10,15,36,85,A+,9.07,71,Fail
+S0012,Student 0012,Female,22,Information Technology,3,6,Python,22,9,10,34,75,A,8.04,55,Fail
+S0013,Student 0013,Male,22,Computer Science,1,5,Mathematics,26,10,11,24,71,A,7.42,78,Pass
+S0014,Student 0014,Male,18,Electronics,4,1,Python,23,8,11,21,63,B+,6.75,70,Fail
+S0015,Student 0015,Female,19,Mechanical,1,3,Data Structures,28,9,10,28,75,A,7.95,88,Pass
+S0016,Student 0016,Male,19,Civil,2,5,Cloud Computing,28,8,15,48,99,O,9.84,88,Pass
+S0017,Student 0017,Male,19,Information Technology,3,1,Machine Learning,26,7,11,20,64,B+,6.65,59,Fail
+S0018,Student 0018,Male,23,Information Technology,1,6,Python,26,7,12,41,86,A+,8.26,86,Pass
+S0019,Student 0019,Female,21,Civil,4,4,Cloud Computing,30,9,11,23,73,A,7.49,61,Fail
+S0020,Student 0020,Male,19,Mechanical,4,1,Mathematics,28,6,8,32,74,A,7.76,76,Pass
+S0021,Student 0021,Male,21,Computer Science,2,8,Data Structures,24,7,12,34,77,A,8.15,70,Fail
+S0022,Student 0022,Female,21,Civil,1,1,Mathematics,26,6,9,49,90,O,8.6,70,Fail
+S0023,Student 0023,Female,19,Computer Science,4,1,Data Structures,24,6,14,28,72,A,6.94,84,Pass
+S0024,Student 0024,Female,22,Computer Science,3,4,Python,27,10,8,43,88,A+,8.27,75,Pass
+S0025,Student 0025,Male,21,Civil,2,1,Machine Learning,19,7,9,39,74,A,7.61,59,Fail
+S0026,Student 0026,Female,19,Information Technology,2,1,Machine Learning,19,9,13,49,90,O,8.65,71,Fail
+S0027,Student 0027,Male,18,Electronics,4,3,Mathematics,28,8,15,30,81,A+,7.51,59,Fail
+S0028,Student 0028,Female,22,Civil,2,5,Data Structures,23,6,11,31,71,A,6.69,73,Fail
+S0029,Student 0029,Male,20,Civil,1,5,Mathematics,19,7,12,23,61,B+,6.39,61,Fail
+S0030,Student 0030,Female,24,Electronics,2,6,Data Structures,28,8,15,28,79,A,7.41,58,Fail
+S0031,Student 0031,Female,22,Electronics,1,1,DBMS,30,7,12,25,74,A,7.46,83,Pass
+S0032,Student 0032,Male,21,Information Technology,1,2,Mathematics,20,10,8,46,84,A+,8.5,78,Pass
+S0033,Student 0033,Male,20,Computer Science,1,5,DBMS,30,6,13,26,75,A,7.2,98,Pass
+S0034,Student 0034,Female,24,Civil,4,3,Data Structures,20,7,14,20,61,B+,6.38,66,Fail
+S0035,Student 0035,Male,19,Mechanical,2,5,Data Structures,30,6,14,47,97,O,10,57,Fail
+S0036,Student 0036,Male,24,Mechanical,3,5,Data Structures,21,6,11,32,70,A,6.73,76,Pass
+S0037,Student 0037,Female,18,Electronics,3,7,Mathematics,26,8,8,23,65,B+,6.11,71,Fail
+S0038,Student 0038,Male,20,Information Technology,4,6,Mathematics,30,8,14,39,91,O,8.64,87,Pass
+S0039,Student 0039,Female,22,Information Technology,4,1,Machine Learning,30,10,11,31,82,A+,7.68,82,Pass
+S0040,Student 0040,Male,19,Electronics,1,5,Machine Learning,22,9,13,32,76,A,7.35,99,Pass
+S0041,Student 0041,Male,21,Mechanical,4,3,Machine Learning,27,8,14,37,86,A+,8.36,55,Fail
+S0042,Student 0042,Female,22,Civil,3,8,Cloud Computing,25,7,15,45,92,O,9.39,65,Fail
+S0043,Student 0043,Male,19,Civil,3,2,Data Structures,28,8,11,45,92,O,8.78,67,Fail
+S0044,Student 0044,Female,19,Mechanical,1,8,Cloud Computing,28,10,11,42,91,O,8.96,99,Pass
+S0045,Student 0045,Male,21,Computer Science,1,2,Cloud Computing,21,7,15,21,64,B+,6.1,90,Pass
+S0046,Student 0046,Male,23,Computer Science,4,6,Cloud Computing,27,10,14,46,97,O,9.64,90,Pass
+S0047,Student 0047,Male,23,Mechanical,4,5,Data Structures,28,8,15,40,91,O,8.83,70,Fail
+S0048,Student 0048,Male,23,Electronics,2,5,DBMS,23,10,9,24,66,B+,6.28,64,Fail
+S0049,Student 0049,Female,21,Computer Science,1,7,Cloud Computing,23,10,15,33,81,A+,7.75,58,Fail
+S0050,Student 0050,Female,22,Civil,1,7,Cloud Computing,18,8,12,44,82,A+,8.62,79,Pass
+S0051,Student 0051,Female,23,Civil,2,8,Data Structures,22,9,15,20,66,B+,6.4,79,Pass
+S0052,Student 0052,Male,23,Computer Science,4,3,Machine Learning,26,6,14,38,84,A+,8.6,91,Pass
+S0053,Student 0053,Female,24,Mechanical,2,8,Data Structures,18,8,14,30,70,A,6.95,68,Fail
+S0054,Student 0054,Female,19,Mechanical,3,7,DBMS,19,9,8,43,79,A,7.36,89,Pass
+S0055,Student 0055,Male,22,Information Technology,1,1,Data Structures,21,6,10,27,64,B+,6.37,63,Fail
+S0056,Student 0056,Male,22,Computer Science,4,5,DBMS,20,10,9,44,83,A+,8.86,65,Fail
+S0057,Student 0057,Male,18,Information Technology,3,7,Cloud Computing,29,7,9,38,83,A+,8.7,99,Pass
+S0058,Student 0058,Male,24,Electronics,1,1,DBMS,26,9,13,22,70,A,7.18,87,Pass
+S0059,Student 0059,Female,22,Mechanical,4,2,Cloud Computing,23,9,10,33,75,A,7.78,66,Fail
+S0060,Student 0060,Male,20,Civil,4,8,Cloud Computing,29,10,12,30,81,A+,8.5,70,Fail
+S0061,Student 0061,Male,21,Mechanical,2,8,Machine Learning,27,9,13,20,69,B+,7.32,86,Pass
+S0062,Student 0062,Male,18,Computer Science,3,5,DBMS,22,10,12,37,81,A+,8.12,55,Fail
+S0063,Student 0063,Male,18,Computer Science,4,8,Machine Learning,30,7,15,40,92,O,9.19,100,Pass
+S0064,Student 0064,Female,23,Electronics,2,7,Mathematics,21,8,13,35,77,A,7.74,90,Pass
+S0065,Student 0065,Male,20,Civil,3,6,Mathematics,25,8,12,28,73,A,6.84,69,Fail
+S0066,Student 0066,Female,18,Information Technology,2,4,Data Structures,29,9,12,43,93,O,9.87,92,Pass
+S0067,Student 0067,Male,18,Computer Science,3,4,DBMS,20,8,8,42,78,A,7.35,89,Pass
+S0068,Student 0068,Female,21,Civil,3,3,Mathematics,30,9,9,47,95,O,9.59,55,Fail
+S0069,Student 0069,Male,22,Mechanical,3,3,Python,22,9,9,46,86,A+,8.48,59,Fail
+S0070,Student 0070,Male,24,Information Technology,2,3,Machine Learning,22,6,11,23,62,B+,6.52,90,Pass
+S0071,Student 0071,Male,24,Civil,4,8,Cloud Computing,22,10,14,29,75,A,7.65,91,Pass
+S0072,Student 0072,Male,21,Computer Science,2,5,Mathematics,19,7,11,25,62,B+,5.69,90,Pass
+S0073,Student 0073,Male,20,Mechanical,4,5,Python,21,8,12,42,83,A+,7.79,84,Pass
+S0074,Student 0074,Male,18,Civil,2,7,Python,26,7,10,49,92,O,9.59,72,Fail
+S0075,Student 0075,Female,21,Computer Science,3,5,Cloud Computing,19,9,12,42,82,A+,8.73,80,Pass
+S0076,Student 0076,Male,24,Information Technology,1,7,Mathematics,23,10,12,20,65,B+,6.17,60,Fail
+S0077,Student 0077,Female,18,Electronics,1,3,Cloud Computing,26,9,12,25,72,A,7.12,92,Pass
+S0078,Student 0078,Female,23,Mechanical,3,7,DBMS,23,6,10,30,69,B+,7.13,81,Pass
+S0079,Student 0079,Male,23,Mechanical,1,8,Python,23,8,13,23,67,B+,7.14,80,Pass
+S0080,Student 0080,Male,19,Civil,4,7,Python,21,10,13,39,83,A+,8.45,86,Pass
+S0081,Student 0081,Male,23,Electronics,2,5,Cloud Computing,29,9,9,20,67,B+,6.83,95,Pass
+S0082,Student 0082,Male,23,Computer Science,3,1,Machine Learning,24,6,11,46,87,A+,8.65,62,Fail
+S0083,Student 0083,Male,21,Computer Science,4,5,Machine Learning,29,8,14,46,97,O,10,85,Pass
+S0084,Student 0084,Female,20,Civil,2,7,Data Structures,27,10,10,47,94,O,9.13,59,Fail
+S0085,Student 0085,Female,20,Civil,3,1,DBMS,29,8,15,47,99,O,9.84,64,Fail
+S0086,Student 0086,Female,23,Electronics,4,8,DBMS,21,7,14,27,69,B+,6.35,81,Pass
+S0087,Student 0087,Female,18,Mechanical,4,3,Cloud Computing,18,7,13,47,85,A+,8.95,61,Fail
+S0088,Student 0088,Female,20,Civil,4,1,Mathematics,20,9,10,22,61,B+,6.44,85,Pass
+S0089,Student 0089,Female,24,Civil,4,2,DBMS,28,10,14,50,100,O,10,75,Pass
+S0090,Student 0090,Male,24,Civil,1,2,Data Structures,28,8,11,43,90,O,8.92,60,Fail
+S0091,Student 0091,Female,21,Information Technology,4,3,Mathematics,22,6,8,30,66,B+,6.35,58,Fail
+S0092,Student 0092,Female,22,Computer Science,2,7,Machine Learning,28,7,10,25,70,A,7.13,60,Fail
+S0093,Student 0093,Female,20,Computer Science,4,3,Data Structures,25,8,15,28,76,A,7.01,97,Pass
+S0094,Student 0094,Female,24,Civil,2,2,Cloud Computing,23,10,12,40,85,A+,8.73,82,Pass
+S0095,Student 0095,Female,18,Electronics,2,7,Cloud Computing,19,7,14,38,78,A,7.89,77,Pass
+S0096,Student 0096,Male,22,Mechanical,3,1,Machine Learning,28,6,15,46,95,O,9.83,73,Fail
+S0097,Student 0097,Female,24,Electronics,2,4,Machine Learning,22,7,9,48,86,A+,8.78,95,Pass
+S0098,Student 0098,Male,24,Mechanical,1,6,Mathematics,20,6,12,30,68,B+,6.41,81,Pass
+S0099,Student 0099,Female,18,Civil,3,5,Data Structures,22,9,12,43,86,A+,8.97,76,Pass
+S0100,Student 0100,Female,20,Computer Science,2,7,Machine Learning,23,6,14,20,63,B+,6.34,71,Fail
+S0101,Student 0101,Female,22,Electronics,4,6,Python,28,7,15,20,70,A,7.46,94,Pass
+S0102,Student 0102,Female,21,Computer Science,1,8,Mathematics,22,9,9,24,64,B+,6.94,57,Fail
+S0103,Student 0103,Female,22,Information Technology,1,4,Machine Learning,20,9,15,31,75,A,8.04,97,Pass
+S0104,Student 0104,Female,21,Computer Science,4,2,Cloud Computing,27,9,12,21,69,B+,6.74,99,Pass
+S0105,Student 0105,Male,24,Computer Science,3,2,Mathematics,23,10,13,21,67,B+,6.43,80,Pass
+S0106,Student 0106,Male,24,Mechanical,1,4,Mathematics,28,10,8,21,67,B+,6.39,76,Pass
+S0107,Student 0107,Male,24,Civil,2,2,Machine Learning,21,10,11,46,88,A+,8.59,69,Fail
+S0108,Student 0108,Male,19,Civil,1,5,Data Structures,20,10,12,45,87,A+,8.23,66,Fail
+S0109,Student 0109,Female,22,Information Technology,3,4,Machine Learning,23,6,10,28,67,B+,6.25,58,Fail
+S0110,Student 0110,Male,23,Information Technology,1,8,Cloud Computing,30,8,9,34,81,A+,7.77,87,Pass
+S0111,Student 0111,Male,21,Civil,3,8,Mathematics,18,6,15,47,86,A+,8.51,80,Pass
+S0112,Student 0112,Female,21,Mechanical,1,2,DBMS,27,7,9,24,67,B+,6.85,72,Fail
+S0113,Student 0113,Male,21,Civil,3,8,Machine Learning,27,9,9,45,90,O,8.54,99,Pass
+S0114,Student 0114,Female,23,Mechanical,2,7,DBMS,25,9,14,43,91,O,8.88,61,Fail
+S0115,Student 0115,Male,23,Electronics,3,3,Mathematics,25,6,9,46,86,A+,8.11,60,Fail
+S0116,Student 0116,Female,24,Electronics,2,1,Machine Learning,26,10,13,41,90,O,8.89,62,Fail
+S0117,Student 0117,Male,20,Information Technology,3,5,DBMS,19,10,11,24,64,B+,6.38,97,Pass
+S0118,Student 0118,Male,22,Civil,3,2,DBMS,27,7,14,47,95,O,10,90,Pass
+S0119,Student 0119,Male,22,Electronics,1,3,DBMS,29,8,13,31,81,A+,7.72,55,Fail
+S0120,Student 0120,Female,21,Mechanical,1,3,Mathematics,28,6,9,43,86,A+,8.26,88,Pass
+S0121,Student 0121,Male,23,Electronics,2,6,DBMS,29,8,9,48,94,O,8.99,58,Fail
+S0122,Student 0122,Male,20,Information Technology,3,8,Mathematics,24,9,15,33,81,A+,7.76,72,Fail
+S0123,Student 0123,Male,21,Mechanical,1,5,Mathematics,28,10,15,36,89,A+,8.67,97,Pass
+S0124,Student 0124,Male,18,Civil,1,1,Data Structures,22,7,10,44,83,A+,8.05,71,Fail
+S0125,Student 0125,Female,18,Mechanical,4,3,Data Structures,24,10,11,36,81,A+,8.5,90,Pass
+S0126,Student 0126,Female,20,Mechanical,1,7,Python,25,6,13,38,82,A+,8.29,82,Pass
+S0127,Student 0127,Male,21,Information Technology,4,1,DBMS,20,10,15,46,91,O,9.6,99,Pass
+S0128,Student 0128,Male,20,Information Technology,2,7,Machine Learning,24,10,9,32,75,A,7.79,74,Fail
+S0129,Student 0129,Male,18,Computer Science,1,2,Machine Learning,26,7,13,31,77,A,8.08,96,Pass
+S0130,Student 0130,Female,23,Computer Science,3,4,Data Structures,27,7,9,25,68,B+,6.79,95,Pass
+S0131,Student 0131,Female,22,Civil,3,6,Data Structures,25,6,15,34,80,A+,7.76,95,Pass
+S0132,Student 0132,Male,23,Information Technology,3,2,DBMS,25,9,8,21,63,B+,6.7,78,Pass
+S0133,Student 0133,Female,22,Information Technology,4,8,Machine Learning,26,6,15,49,96,O,9.78,91,Pass
+S0134,Student 0134,Male,23,Mechanical,2,1,Cloud Computing,19,8,9,36,72,A,6.81,96,Pass
+S0135,Student 0135,Male,24,Mechanical,4,3,DBMS,23,8,14,33,78,A,8.01,76,Pass
+S0136,Student 0136,Male,20,Electronics,1,6,Python,26,9,12,28,75,A,8.06,97,Pass
+S0137,Student 0137,Female,22,Information Technology,2,6,DBMS,28,9,10,39,86,A+,9.13,100,Pass
+S0138,Student 0138,Female,18,Mechanical,3,3,Mathematics,29,10,9,40,88,A+,8.71,97,Pass
+S0139,Student 0139,Female,24,Electronics,3,3,Data Structures,23,9,11,27,70,A,6.59,63,Fail
+S0140,Student 0140,Male,23,Information Technology,1,6,Machine Learning,20,10,14,24,68,B+,6.42,65,Fail
+S0141,Student 0141,Female,19,Mechanical,1,7,DBMS,28,7,15,39,89,A+,9.2,73,Fail
+S0142,Student 0142,Female,19,Civil,2,5,Cloud Computing,21,8,15,34,78,A,8.13,73,Fail
+S0143,Student 0143,Male,20,Computer Science,2,5,Python,28,9,13,37,87,A+,8.95,61,Fail
+S0144,Student 0144,Female,18,Information Technology,2,5,Cloud Computing,26,7,14,22,69,B+,7.28,69,Fail
+S0145,Student 0145,Female,18,Mechanical,1,7,Machine Learning,23,7,14,22,66,B+,6.27,78,Pass
+S0146,Student 0146,Male,18,Electronics,2,3,Python,22,9,10,44,85,A+,8.46,100,Pass
+S0147,Student 0147,Male,18,Information Technology,3,4,Data Structures,26,10,14,23,73,A,6.99,73,Fail
+S0148,Student 0148,Male,20,Computer Science,4,8,Python,19,9,8,40,76,A,7.69,87,Pass
+S0149,Student 0149,Female,18,Mechanical,1,6,Data Structures,27,9,10,41,87,A+,8.2,97,Pass
+S0150,Student 0150,Male,20,Civil,1,7,Cloud Computing,18,9,13,28,68,B+,6.63,56,Fail
+S0151,Student 0151,Female,23,Computer Science,1,6,Data Structures,18,8,13,46,85,A+,8.11,96,Pass
+S0152,Student 0152,Male,18,Mechanical,2,3,Python,29,9,8,29,75,A,6.95,67,Fail
+S0153,Student 0153,Female,24,Electronics,3,7,Machine Learning,25,8,8,44,85,A+,8.13,96,Pass
+S0154,Student 0154,Female,20,Information Technology,3,5,Python,30,8,14,48,100,O,10,80,Pass
+S0155,Student 0155,Male,21,Computer Science,4,8,DBMS,30,10,12,45,97,O,9.97,60,Fail
+S0156,Student 0156,Female,19,Civil,2,5,DBMS,19,6,13,41,79,A,7.67,73,Fail
+S0157,Student 0157,Male,18,Mechanical,3,8,Python,29,8,14,28,79,A,8.48,95,Pass
+S0158,Student 0158,Female,20,Mechanical,3,3,Python,20,10,15,21,66,B+,6.08,63,Fail
+S0159,Student 0159,Female,21,Mechanical,1,3,Mathematics,25,8,13,34,80,A+,8.09,59,Fail
+S0160,Student 0160,Male,20,Electronics,3,4,Python,18,7,15,36,76,A,8.1,79,Pass
+S0161,Student 0161,Female,19,Electronics,4,4,Machine Learning,22,9,11,23,65,B+,6.92,63,Fail
+S0162,Student 0162,Male,24,Mechanical,1,6,Mathematics,23,6,12,48,89,A+,9.32,74,Fail
+S0163,Student 0163,Female,21,Electronics,2,2,Data Structures,30,7,11,45,93,O,8.73,86,Pass
+S0164,Student 0164,Male,19,Civil,2,2,Python,22,9,15,36,82,A+,8.52,81,Pass
+S0165,Student 0165,Male,24,Electronics,1,8,Cloud Computing,28,10,13,24,75,A,7.67,90,Pass
+S0166,Student 0166,Male,20,Computer Science,4,1,Python,26,7,12,25,70,A,6.79,65,Fail
+S0167,Student 0167,Male,22,Civil,3,2,DBMS,21,10,12,24,67,B+,6.46,95,Pass
+S0168,Student 0168,Male,18,Computer Science,2,3,Mathematics,27,10,13,46,96,O,9.05,91,Pass
+S0169,Student 0169,Female,21,Information Technology,3,4,Machine Learning,24,10,8,35,77,A,7.75,95,Pass
+S0170,Student 0170,Male,20,Computer Science,4,5,Cloud Computing,19,6,10,34,69,B+,6.88,81,Pass
+S0171,Student 0171,Male,20,Civil,2,6,Mathematics,23,8,14,24,69,B+,6.92,78,Pass
+S0172,Student 0172,Female,24,Computer Science,4,2,DBMS,25,7,10,23,65,B+,6.25,58,Fail
+S0173,Student 0173,Female,21,Civil,4,4,Data Structures,23,10,13,26,72,A,7.2,65,Fail
+S0174,Student 0174,Female,18,Electronics,4,1,Python,24,10,15,50,99,O,9.56,70,Fail
+S0175,Student 0175,Female,19,Information Technology,3,8,Machine Learning,28,9,12,37,86,A+,9.02,55,Fail
+S0176,Student 0176,Female,18,Electronics,3,7,DBMS,18,9,8,38,73,A,6.93,90,Pass
+S0177,Student 0177,Female,22,Mechanical,4,5,Machine Learning,28,10,9,24,71,A,6.97,61,Fail
+S0178,Student 0178,Female,24,Electronics,2,4,Machine Learning,26,9,8,21,64,B+,5.96,57,Fail
+S0179,Student 0179,Female,22,Mechanical,4,3,Machine Learning,26,7,13,49,95,O,9.28,94,Pass
+S0180,Student 0180,Male,21,Electronics,3,8,Mathematics,27,8,15,46,96,O,9.44,56,Fail
+S0181,Student 0181,Male,22,Civil,3,1,Machine Learning,25,8,11,43,87,A+,8.8,58,Fail
+S0182,Student 0182,Female,19,Civil,4,3,Mathematics,21,6,9,26,62,B+,6.13,56,Fail
+S0183,Student 0183,Male,22,Mechanical,2,7,Machine Learning,30,10,15,47,100,O,10,58,Fail
+S0184,Student 0184,Female,22,Electronics,4,7,DBMS,20,9,13,37,79,A,8.11,77,Pass
+S0185,Student 0185,Male,23,Mechanical,2,4,DBMS,26,8,11,50,95,O,9.83,74,Fail
+S0186,Student 0186,Female,21,Mechanical,3,8,DBMS,26,8,12,23,69,B+,7.11,91,Pass
+S0187,Student 0187,Female,19,Electronics,2,5,Python,22,6,13,49,90,O,9.19,83,Pass
+S0188,Student 0188,Male,23,Computer Science,3,5,Data Structures,19,10,11,27,67,B+,6.9,58,Fail
+S0189,Student 0189,Male,21,Computer Science,1,2,Cloud Computing,23,9,9,41,82,A+,7.61,63,Fail
+S0190,Student 0190,Male,22,Mechanical,4,4,DBMS,23,8,8,49,88,A+,8.98,60,Fail
+S0191,Student 0191,Male,20,Information Technology,2,7,Data Structures,18,9,15,25,67,B+,7.15,73,Fail
+S0192,Student 0192,Female,20,Civil,1,6,DBMS,25,10,15,48,98,O,10,63,Fail
+S0193,Student 0193,Female,24,Computer Science,1,6,Data Structures,29,9,12,42,92,O,8.62,66,Fail
+S0194,Student 0194,Male,19,Electronics,2,3,Machine Learning,28,9,14,36,87,A+,8.2,75,Pass
+S0195,Student 0195,Female,20,Computer Science,4,6,Data Structures,18,8,14,27,67,B+,7.0,83,Pass
+S0196,Student 0196,Male,21,Civil,1,5,Mathematics,23,7,8,41,79,A,7.86,62,Fail
+S0197,Student 0197,Female,23,Civil,3,2,Mathematics,22,8,11,27,68,B+,6.77,63,Fail
+S0198,Student 0198,Male,22,Civil,3,7,Mathematics,26,9,11,44,90,O,9.22,70,Fail
+S0199,Student 0199,Female,24,Mechanical,3,2,Machine Learning,19,6,11,38,74,A,6.98,89,Pass
+S0200,Student 0200,Male,21,Civil,4,2,Mathematics,21,10,15,22,68,B+,6.73,87,Pass
+S0201,Student 0201,Female,20,Computer Science,4,8,Machine Learning,18,10,15,41,84,A+,8.67,74,Fail
+S0202,Student 0202,Male,21,Information Technology,2,2,Python,24,8,9,37,78,A,8.32,58,Fail
+S0203,Student 0203,Female,21,Information Technology,3,7,Data Structures,30,7,14,31,82,A+,8.14,79,Pass
+S0204,Student 0204,Male,24,Information Technology,2,6,Python,20,10,14,36,80,A+,8.27,63,Fail
+S0205,Student 0205,Male,21,Information Technology,1,5,Cloud Computing,28,10,14,37,89,A+,9.29,79,Pass
+S0206,Student 0206,Male,19,Electronics,2,5,Data Structures,29,6,8,45,88,A+,8.7,97,Pass
+S0207,Student 0207,Male,22,Computer Science,1,2,Machine Learning,18,9,8,27,62,B+,6.08,57,Fail
+S0208,Student 0208,Female,19,Computer Science,1,3,Machine Learning,22,7,13,38,80,A+,8.33,93,Pass
+S0209,Student 0209,Male,23,Electronics,2,4,Cloud Computing,22,8,8,37,75,A,7.96,92,Pass
+S0210,Student 0210,Female,21,Mechanical,4,1,DBMS,28,9,13,42,92,O,9.09,81,Pass
+S0211,Student 0211,Female,22,Computer Science,4,4,Data Structures,22,7,15,49,93,O,9.37,58,Fail
+S0212,Student 0212,Female,18,Civil,2,7,Data Structures,22,7,13,40,82,A+,8.71,60,Fail
+S0213,Student 0213,Male,21,Civil,2,1,DBMS,24,10,8,47,89,A+,8.53,59,Fail
+S0214,Student 0214,Male,21,Computer Science,3,5,Python,21,7,9,43,80,A+,8.5,85,Pass
+S0215,Student 0215,Female,21,Computer Science,3,5,Cloud Computing,25,10,13,29,77,A,7.53,71,Fail
+S0216,Student 0216,Male,18,Information Technology,4,6,Data Structures,23,8,14,21,66,B+,7.04,91,Pass
+S0217,Student 0217,Female,22,Electronics,4,5,Data Structures,21,8,11,32,72,A,7.6,91,Pass
+S0218,Student 0218,Female,19,Electronics,3,8,Mathematics,28,9,15,25,77,A,7.3,77,Pass
+S0219,Student 0219,Male,18,Civil,1,1,Python,28,6,8,33,75,A,7.91,63,Fail
+S0220,Student 0220,Female,23,Computer Science,1,4,Machine Learning,25,8,8,39,80,A+,8.2,95,Pass
+S0221,Student 0221,Female,18,Mechanical,1,1,Machine Learning,26,9,8,20,63,B+,6.57,88,Pass
+S0222,Student 0222,Female,24,Civil,4,3,Python,19,10,10,27,66,B+,6.74,67,Fail
+S0223,Student 0223,Male,20,Electronics,3,7,Python,23,9,15,38,85,A+,9.09,70,Fail
+S0224,Student 0224,Male,18,Information Technology,1,2,Cloud Computing,24,9,15,21,69,B+,6.31,95,Pass
+S0225,Student 0225,Female,20,Mechanical,4,6,Machine Learning,19,10,8,27,64,B+,6.88,68,Fail
+S0226,Student 0226,Male,22,Information Technology,1,5,Machine Learning,27,6,10,49,92,O,8.62,75,Pass
+S0227,Student 0227,Female,21,Computer Science,4,2,DBMS,20,10,11,38,79,A,8.11,79,Pass
+S0228,Student 0228,Female,24,Computer Science,1,6,Python,19,9,11,46,85,A+,8.31,59,Fail
+S0229,Student 0229,Female,18,Electronics,1,5,Cloud Computing,25,7,13,37,82,A+,8.12,79,Pass
+S0230,Student 0230,Male,23,Civil,3,4,Mathematics,19,6,12,24,61,B+,6.35,79,Pass
+S0231,Student 0231,Male,19,Mechanical,3,6,Python,19,6,12,34,71,A,7.41,78,Pass
+S0232,Student 0232,Male,22,Information Technology,2,7,Cloud Computing,26,10,14,23,73,A,6.81,56,Fail
+S0233,Student 0233,Male,22,Civil,3,7,Python,22,9,14,44,89,A+,9.17,60,Fail
+S0234,Student 0234,Male,21,Civil,2,7,Data Structures,20,8,12,28,68,B+,6.38,86,Pass
+S0235,Student 0235,Female,22,Electronics,4,5,Cloud Computing,30,6,13,28,77,A,7.97,70,Fail
+S0236,Student 0236,Female,24,Civil,2,8,Python,20,8,8,50,86,A+,8.4,80,Pass
+S0237,Student 0237,Male,21,Electronics,4,6,Cloud Computing,28,10,10,29,77,A,7.82,75,Pass
+S0238,Student 0238,Female,20,Electronics,2,7,DBMS,22,9,11,30,72,A,6.94,79,Pass
+S0239,Student 0239,Male,21,Information Technology,2,3,Mathematics,30,10,8,50,98,O,10,84,Pass
+S0240,Student 0240,Female,24,Electronics,1,7,Mathematics,25,7,12,27,71,A,7.29,71,Fail
+S0241,Student 0241,Female,22,Mechanical,1,8,Machine Learning,25,10,14,37,86,A+,9.11,87,Pass
+S0242,Student 0242,Female,24,Information Technology,3,2,Python,30,7,13,25,75,A,7.64,96,Pass
+S0243,Student 0243,Male,21,Electronics,4,2,Python,19,8,11,36,74,A,7.47,88,Pass
+S0244,Student 0244,Female,21,Electronics,4,8,Mathematics,27,10,10,31,78,A,7.78,56,Fail
+S0245,Student 0245,Female,21,Information Technology,1,3,DBMS,22,8,15,45,90,O,9.03,68,Fail
+S0246,Student 0246,Female,23,Information Technology,4,8,DBMS,19,8,8,45,80,A+,7.54,100,Pass
+S0247,Student 0247,Female,19,Information Technology,2,4,Machine Learning,20,10,10,30,70,A,6.91,90,Pass
+S0248,Student 0248,Female,22,Mechanical,2,3,Mathematics,28,9,14,20,71,A,7.56,94,Pass
+S0249,Student 0249,Male,22,Mechanical,4,1,Mathematics,21,7,12,44,84,A+,8.77,100,Pass
+S0250,Student 0250,Female,22,Information Technology,2,6,DBMS,21,9,9,28,67,B+,7.14,97,Pass
+S0251,Student 0251,Female,22,Mechanical,4,2,DBMS,23,9,10,46,88,A+,9.05,98,Pass
+S0252,Student 0252,Male,22,Civil,1,3,DBMS,19,7,12,23,61,B+,5.95,66,Fail
+S0253,Student 0253,Male,22,Mechanical,4,3,Machine Learning,24,9,10,35,78,A,7.84,95,Pass
+S0254,Student 0254,Male,21,Computer Science,4,5,Data Structures,20,8,15,39,82,A+,8.64,58,Fail
+S0255,Student 0255,Female,21,Computer Science,2,7,Machine Learning,26,9,14,41,90,O,8.9,86,Pass
+S0256,Student 0256,Female,22,Computer Science,1,1,Data Structures,22,6,12,27,67,B+,6.45,89,Pass
+S0257,Student 0257,Female,22,Mechanical,1,2,DBMS,30,10,13,37,90,O,9.31,57,Fail
+S0258,Student 0258,Female,24,Computer Science,4,2,Mathematics,28,7,12,47,94,O,9.34,57,Fail
+S0259,Student 0259,Female,19,Information Technology,4,2,Data Structures,21,10,13,47,91,O,9.23,100,Pass
+S0260,Student 0260,Male,20,Civil,2,4,Data Structures,30,6,13,37,86,A+,8.72,72,Fail
+S0261,Student 0261,Female,24,Electronics,3,5,Machine Learning,28,6,10,50,94,O,9.9,81,Pass
+S0262,Student 0262,Male,22,Computer Science,2,4,Data Structures,29,8,11,44,92,O,9.07,98,Pass
+S0263,Student 0263,Female,21,Electronics,4,7,Cloud Computing,19,6,14,36,75,A,7.73,72,Fail
+S0264,Student 0264,Female,19,Mechanical,3,1,Mathematics,19,9,13,47,88,A+,9.15,59,Fail
+S0265,Student 0265,Female,24,Mechanical,2,8,DBMS,23,8,13,37,81,A+,7.66,91,Pass
+S0266,Student 0266,Male,21,Electronics,1,1,Python,28,9,8,23,68,B+,6.73,65,Fail
+S0267,Student 0267,Male,18,Computer Science,2,5,Data Structures,22,6,13,28,69,B+,6.75,60,Fail
+S0268,Student 0268,Male,22,Mechanical,3,4,Cloud Computing,28,6,9,20,63,B+,6.27,68,Fail
+S0269,Student 0269,Female,18,Computer Science,4,1,Python,29,8,9,47,93,O,9.53,82,Pass
+S0270,Student 0270,Male,21,Computer Science,4,2,Mathematics,30,6,9,30,75,A,7.96,78,Pass
+S0271,Student 0271,Male,21,Computer Science,2,2,Machine Learning,27,6,10,34,77,A,7.97,77,Pass
+S0272,Student 0272,Female,20,Civil,4,4,Python,19,7,9,38,73,A,7.12,79,Pass
+S0273,Student 0273,Female,19,Computer Science,2,5,Mathematics,19,7,12,44,82,A+,7.63,99,Pass
+S0274,Student 0274,Female,23,Civil,2,7,DBMS,28,6,11,35,80,A+,7.54,79,Pass
+S0275,Student 0275,Male,24,Civil,1,1,DBMS,23,7,14,47,91,O,9.01,91,Pass
+S0276,Student 0276,Female,22,Mechanical,1,1,Machine Learning,19,6,12,26,63,B+,6.81,57,Fail
+S0277,Student 0277,Male,24,Electronics,4,7,Mathematics,24,6,10,28,68,B+,6.57,60,Fail
+S0278,Student 0278,Male,18,Computer Science,3,7,Machine Learning,28,6,12,42,88,A+,9.08,82,Pass
+S0279,Student 0279,Male,18,Computer Science,1,7,Python,25,10,8,29,72,A,7.49,97,Pass
+S0280,Student 0280,Female,23,Information Technology,2,1,Data Structures,25,8,12,25,70,A,6.55,78,Pass
+S0281,Student 0281,Male,21,Information Technology,1,6,Cloud Computing,22,10,9,28,69,B+,7.47,100,Pass
+S0282,Student 0282,Male,19,Mechanical,3,1,Cloud Computing,27,7,13,25,72,A,7.53,71,Fail
+S0283,Student 0283,Male,24,Civil,1,1,Python,21,6,15,31,73,A,7.8,79,Pass
+S0284,Student 0284,Male,22,Information Technology,4,4,DBMS,21,9,13,28,71,A,7.19,59,Fail
+S0285,Student 0285,Female,20,Information Technology,2,4,Machine Learning,18,9,9,48,84,A+,8.84,84,Pass
+S0286,Student 0286,Female,22,Information Technology,4,1,DBMS,21,8,12,43,84,A+,8.09,94,Pass
+S0287,Student 0287,Male,20,Mechanical,2,4,Data Structures,18,9,8,27,62,B+,6.02,89,Pass
+S0288,Student 0288,Male,23,Information Technology,4,5,Python,21,10,11,33,75,A,8.05,86,Pass
+S0289,Student 0289,Male,23,Electronics,1,1,Data Structures,26,9,13,34,82,A+,8.3,60,Fail
+S0290,Student 0290,Female,23,Mechanical,1,1,Cloud Computing,28,7,11,29,75,A,7.92,71,Fail
+S0291,Student 0291,Male,19,Electronics,3,8,DBMS,21,6,11,24,62,B+,5.73,92,Pass
+S0292,Student 0292,Female,20,Mechanical,4,6,Cloud Computing,19,10,13,50,92,O,9.14,68,Fail
+S0293,Student 0293,Male,20,Information Technology,1,3,Mathematics,22,10,8,26,66,B+,6.18,75,Pass
+S0294,Student 0294,Male,18,Mechanical,1,5,DBMS,20,6,14,47,87,A+,8.77,83,Pass
+S0295,Student 0295,Female,23,Mechanical,1,3,Python,18,6,11,24,59,B,6.29,67,Fail
+S0296,Student 0296,Female,18,Information Technology,3,2,Python,19,7,15,45,86,A+,8.11,63,Fail
+S0297,Student 0297,Female,19,Information Technology,4,1,Data Structures,27,9,14,35,85,A+,8.36,56,Fail
+S0298,Student 0298,Male,23,Electronics,2,3,DBMS,22,9,10,21,62,B+,6.34,94,Pass
+S0299,Student 0299,Male,23,Electronics,4,7,Machine Learning,25,6,9,28,68,B+,6.36,79,Pass
+S0300,Student 0300,Female,21,Civil,2,1,Cloud Computing,30,8,15,37,90,O,8.81,86,Pass
+S0301,Student 0301,Female,22,Electronics,2,1,DBMS,27,7,8,48,90,O,8.47,72,Fail
+S0302,Student 0302,Male,22,Electronics,2,3,Python,21,7,12,37,77,A,8.02,58,Fail
+S0303,Student 0303,Male,23,Mechanical,3,3,Data Structures,21,10,13,45,89,A+,8.73,99,Pass
+S0304,Student 0304,Male,22,Electronics,2,4,Cloud Computing,26,8,10,35,79,A,7.41,57,Fail
+S0305,Student 0305,Male,24,Computer Science,1,8,Python,23,10,11,45,89,A+,8.71,63,Fail
+S0306,Student 0306,Male,20,Electronics,1,1,Data Structures,27,7,9,47,90,O,9.43,88,Pass
+S0307,Student 0307,Female,23,Mechanical,1,6,DBMS,23,7,10,43,83,A+,8.65,82,Pass
+S0308,Student 0308,Female,19,Electronics,2,6,Data Structures,28,10,10,32,80,A+,8.28,74,Fail
+S0309,Student 0309,Male,21,Computer Science,1,7,Machine Learning,18,7,13,49,87,A+,8.37,94,Pass
+S0310,Student 0310,Female,21,Computer Science,3,2,Data Structures,23,8,10,40,81,A+,8.49,60,Fail
+S0311,Student 0311,Male,21,Information Technology,3,4,Data Structures,29,6,13,28,76,A,7.86,61,Fail
+S0312,Student 0312,Female,24,Mechanical,4,3,Cloud Computing,25,9,13,37,84,A+,7.92,79,Pass
+S0313,Student 0313,Male,18,Civil,2,3,Cloud Computing,19,6,12,20,57,B,5.41,75,Pass
+S0314,Student 0314,Female,23,Electronics,2,7,Data Structures,29,6,9,30,74,A,7.98,93,Pass
+S0315,Student 0315,Male,21,Information Technology,4,3,Machine Learning,24,7,8,23,62,B+,5.85,76,Pass
+S0316,Student 0316,Female,19,Civil,3,5,DBMS,21,6,8,32,67,B+,6.76,91,Pass
+S0317,Student 0317,Male,23,Information Technology,3,1,Cloud Computing,19,8,15,26,68,B+,6.23,61,Fail
+S0318,Student 0318,Female,19,Electronics,1,8,Python,22,9,15,35,81,A+,7.82,97,Pass
+S0319,Student 0319,Female,22,Electronics,4,6,Data Structures,25,6,12,34,77,A,7.42,84,Pass
+S0320,Student 0320,Male,24,Information Technology,2,2,Python,28,8,14,44,94,O,9.07,92,Pass
+S0321,Student 0321,Male,22,Mechanical,4,8,Machine Learning,21,9,12,22,64,B+,6.88,80,Pass
+S0322,Student 0322,Female,18,Civil,2,2,Cloud Computing,20,7,11,45,83,A+,7.85,67,Fail
+S0323,Student 0323,Female,24,Mechanical,2,3,Machine Learning,22,8,9,22,61,B+,6.17,79,Pass
+S0324,Student 0324,Male,18,Electronics,4,1,Mathematics,27,10,14,23,74,A,6.98,81,Pass
+S0325,Student 0325,Female,18,Civil,1,5,Machine Learning,23,9,12,32,76,A,7.58,96,Pass
+S0326,Student 0326,Female,23,Computer Science,3,7,Data Structures,27,10,14,21,72,A,7.67,80,Pass
+S0327,Student 0327,Female,24,Computer Science,1,8,DBMS,23,6,13,46,88,A+,8.57,74,Fail
+S0328,Student 0328,Male,19,Information Technology,2,3,DBMS,29,9,13,28,79,A,8.03,81,Pass
+S0329,Student 0329,Male,18,Mechanical,2,7,Mathematics,25,10,13,46,94,O,9.42,58,Fail
+S0330,Student 0330,Male,18,Electronics,4,3,Machine Learning,27,6,10,26,69,B+,7.3,67,Fail
+S0331,Student 0331,Male,23,Mechanical,1,6,Mathematics,21,8,13,46,88,A+,8.81,84,Pass
+S0332,Student 0332,Female,20,Information Technology,2,6,Cloud Computing,27,9,10,50,96,O,9.7,85,Pass
+S0333,Student 0333,Male,24,Computer Science,3,2,DBMS,18,9,8,25,60,B+,6.34,91,Pass
+S0334,Student 0334,Male,23,Computer Science,2,4,DBMS,28,9,8,47,92,O,8.61,98,Pass
+S0335,Student 0335,Female,20,Computer Science,1,4,DBMS,27,8,12,33,80,A+,8.42,79,Pass
+S0336,Student 0336,Female,22,Computer Science,4,5,Mathematics,26,10,14,38,88,A+,8.21,61,Fail
+S0337,Student 0337,Female,20,Civil,3,5,Mathematics,19,9,9,30,67,B+,6.87,72,Fail
+S0338,Student 0338,Female,23,Electronics,2,3,Machine Learning,30,7,8,45,90,O,8.88,93,Pass
+S0339,Student 0339,Male,20,Computer Science,1,8,DBMS,22,9,14,32,77,A,7.8,57,Fail
+S0340,Student 0340,Female,23,Computer Science,4,6,Machine Learning,22,7,10,29,68,B+,6.76,61,Fail
+S0341,Student 0341,Female,20,Civil,2,6,Mathematics,19,7,13,27,66,B+,6.5,74,Fail
+S0342,Student 0342,Female,22,Electronics,3,8,Python,25,6,9,35,75,A,7.5,67,Fail
+S0343,Student 0343,Female,19,Electronics,4,1,Data Structures,20,7,13,33,73,A,7.77,91,Pass
+S0344,Student 0344,Female,19,Electronics,2,2,Cloud Computing,23,7,13,40,83,A+,7.71,58,Fail
+S0345,Student 0345,Female,21,Computer Science,2,8,Python,20,10,14,40,84,A+,8.28,82,Pass
+S0346,Student 0346,Male,23,Information Technology,1,4,Mathematics,23,6,13,44,86,A+,8.23,88,Pass
+S0347,Student 0347,Male,24,Computer Science,2,6,DBMS,20,6,14,36,76,A,7.37,92,Pass
+S0348,Student 0348,Female,21,Information Technology,3,5,Cloud Computing,29,10,13,33,85,A+,9.09,98,Pass
+S0349,Student 0349,Male,22,Electronics,2,3,Cloud Computing,18,7,11,43,79,A,7.55,63,Fail
+S0350,Student 0350,Male,22,Civil,2,2,DBMS,29,6,14,48,97,O,9.41,95,Pass
+S0351,Student 0351,Female,21,Information Technology,1,1,Python,29,6,14,34,83,A+,7.85,79,Pass
+S0352,Student 0352,Female,24,Computer Science,2,1,DBMS,24,6,12,39,81,A+,8.34,93,Pass
+S0353,Student 0353,Female,24,Information Technology,1,5,Python,30,6,15,26,77,A,7.34,93,Pass
+S0354,Student 0354,Male,23,Civil,2,6,Mathematics,24,8,10,21,63,B+,6.3,90,Pass
+S0355,Student 0355,Male,18,Mechanical,3,4,Python,18,6,9,46,79,A,8.1,91,Pass
+S0356,Student 0356,Male,24,Civil,1,2,DBMS,28,7,15,29,79,A,7.86,71,Fail
+S0357,Student 0357,Male,18,Computer Science,1,5,DBMS,30,8,14,43,95,O,9.01,62,Fail
+S0358,Student 0358,Female,19,Computer Science,2,6,DBMS,25,10,12,48,95,O,9.35,60,Fail
+S0359,Student 0359,Male,18,Information Technology,4,7,Cloud Computing,22,9,15,45,91,O,9.28,81,Pass
+S0360,Student 0360,Male,22,Computer Science,1,3,Python,24,10,15,45,94,O,9.61,91,Pass
+S0361,Student 0361,Female,21,Mechanical,3,1,Mathematics,29,7,15,49,100,O,9.54,86,Pass
+S0362,Student 0362,Male,21,Information Technology,1,5,Mathematics,23,6,11,50,90,O,9.45,97,Pass
+S0363,Student 0363,Male,18,Computer Science,4,6,Mathematics,28,9,10,46,93,O,9.77,90,Pass
+S0364,Student 0364,Male,22,Computer Science,4,8,Data Structures,19,9,13,27,68,B+,7.36,76,Pass
+S0365,Student 0365,Female,21,Computer Science,4,7,Data Structures,19,9,15,45,88,A+,8.74,91,Pass
+S0366,Student 0366,Male,24,Electronics,1,8,Mathematics,28,6,9,32,75,A,6.94,81,Pass
+S0367,Student 0367,Female,20,Information Technology,3,4,Mathematics,28,9,13,31,81,A+,8.48,58,Fail
+S0368,Student 0368,Female,20,Civil,4,6,Mathematics,25,6,9,44,84,A+,8.07,97,Pass
+S0369,Student 0369,Female,18,Electronics,3,2,Python,20,9,10,46,85,A+,8.79,100,Pass
+S0370,Student 0370,Male,24,Electronics,2,4,Python,24,7,15,46,92,O,9.46,67,Fail
+S0371,Student 0371,Male,22,Mechanical,1,2,Cloud Computing,25,10,10,50,95,O,8.91,86,Pass
+S0372,Student 0372,Female,22,Mechanical,4,3,Mathematics,27,7,10,23,67,B+,6.89,79,Pass
+S0373,Student 0373,Female,24,Mechanical,4,4,DBMS,24,8,12,34,78,A,7.37,63,Fail
+S0374,Student 0374,Male,23,Civil,3,4,Data Structures,21,10,12,41,84,A+,8.91,77,Pass
+S0375,Student 0375,Female,24,Computer Science,3,2,DBMS,26,9,14,41,90,O,8.74,89,Pass
+S0376,Student 0376,Male,20,Information Technology,1,1,Cloud Computing,20,6,8,26,60,B+,6.3,72,Fail
+S0377,Student 0377,Female,18,Electronics,2,1,Mathematics,30,8,11,44,93,O,8.74,89,Pass
+S0378,Student 0378,Female,22,Civil,2,7,Data Structures,26,8,8,49,91,O,8.97,79,Pass
+S0379,Student 0379,Female,24,Information Technology,1,5,Data Structures,27,9,11,49,96,O,9.85,95,Pass
+S0380,Student 0380,Male,21,Civil,2,4,DBMS,25,7,9,25,66,B+,6.88,66,Fail
+S0381,Student 0381,Female,23,Information Technology,4,5,Machine Learning,22,7,10,38,77,A,7.11,71,Fail
+S0382,Student 0382,Male,24,Computer Science,1,3,DBMS,27,6,12,35,80,A+,8.06,91,Pass
+S0383,Student 0383,Male,20,Electronics,2,3,Machine Learning,19,10,10,33,72,A,7.24,89,Pass
+S0384,Student 0384,Male,18,Computer Science,2,6,DBMS,23,8,11,50,92,O,9.24,94,Pass
+S0385,Student 0385,Female,21,Electronics,4,4,Mathematics,27,10,11,50,98,O,10,57,Fail
+S0386,Student 0386,Female,22,Information Technology,4,5,Machine Learning,29,8,8,49,94,O,9.79,88,Pass
+S0387,Student 0387,Male,24,Civil,4,8,Python,22,7,13,36,78,A,8.34,60,Fail
+S0388,Student 0388,Female,23,Civil,1,2,Data Structures,28,7,14,46,95,O,9.15,61,Fail
+S0389,Student 0389,Female,22,Information Technology,2,1,Cloud Computing,29,8,8,22,67,B+,6.17,59,Fail
+S0390,Student 0390,Male,22,Information Technology,2,5,Cloud Computing,24,9,14,33,80,A+,7.42,75,Pass
+S0391,Student 0391,Male,20,Information Technology,1,1,Mathematics,19,8,9,29,65,B+,6.26,98,Pass
+S0392,Student 0392,Female,24,Mechanical,4,7,Mathematics,18,9,10,37,74,A,6.96,69,Fail
+S0393,Student 0393,Male,18,Civil,3,3,DBMS,28,8,8,37,81,A+,7.67,90,Pass
+S0394,Student 0394,Male,19,Civil,4,2,DBMS,21,8,11,33,73,A,7.72,96,Pass
+S0395,Student 0395,Male,20,Computer Science,2,5,Data Structures,19,7,8,47,81,A+,8.05,90,Pass
+S0396,Student 0396,Male,18,Information Technology,3,2,Data Structures,29,10,15,50,100,O,9.83,76,Pass
+S0397,Student 0397,Male,22,Electronics,1,4,DBMS,25,9,13,39,86,A+,8.37,97,Pass
+S0398,Student 0398,Female,20,Civil,3,6,Cloud Computing,20,6,13,27,66,B+,6.85,69,Fail
+S0399,Student 0399,Male,19,Electronics,2,6,Cloud Computing,25,9,13,44,91,O,9.08,74,Fail
+S0400,Student 0400,Male,18,Civil,1,5,Data Structures,26,7,12,43,88,A+,8.29,95,Pass
+S0401,Student 0401,Male,20,Civil,1,7,Machine Learning,21,6,12,37,76,A,7.57,89,Pass
+S0402,Student 0402,Male,24,Mechanical,2,5,Data Structures,25,10,9,32,76,A,7.6,78,Pass
+S0403,Student 0403,Male,19,Civil,2,3,Cloud Computing,20,7,10,43,80,A+,8.53,85,Pass
+S0404,Student 0404,Female,21,Mechanical,2,2,DBMS,23,7,8,41,79,A,7.92,68,Fail
+S0405,Student 0405,Female,24,Mechanical,4,1,Python,28,8,9,42,87,A+,8.86,88,Pass
+S0406,Student 0406,Male,22,Electronics,2,7,Mathematics,24,8,9,36,77,A,7.55,71,Fail
+S0407,Student 0407,Male,18,Mechanical,3,6,Cloud Computing,30,9,8,36,83,A+,8.23,63,Fail
+S0408,Student 0408,Male,21,Civil,3,4,Data Structures,20,7,13,39,79,A,8.28,100,Pass
+S0409,Student 0409,Female,18,Electronics,1,8,Mathematics,25,9,11,38,83,A+,8.48,65,Fail
+S0410,Student 0410,Male,18,Computer Science,1,3,Machine Learning,27,7,10,40,84,A+,7.85,87,Pass
+S0411,Student 0411,Male,19,Computer Science,3,3,Machine Learning,24,10,8,48,90,O,9.39,97,Pass
+S0412,Student 0412,Male,22,Mechanical,4,8,Data Structures,21,9,10,45,85,A+,8.88,92,Pass
+S0413,Student 0413,Female,21,Civil,3,3,Mathematics,28,8,15,39,90,O,8.48,92,Pass
+S0414,Student 0414,Male,21,Computer Science,1,1,Data Structures,26,10,14,46,96,O,9.73,64,Fail
+S0415,Student 0415,Female,20,Civil,1,2,Python,25,7,8,48,88,A+,8.98,98,Pass
+S0416,Student 0416,Female,19,Information Technology,4,4,Cloud Computing,30,9,13,38,90,O,9.09,99,Pass
+S0417,Student 0417,Male,22,Electronics,4,4,Python,22,10,14,28,74,A,6.81,67,Fail
+S0418,Student 0418,Female,23,Civil,1,1,Cloud Computing,28,7,13,33,81,A+,7.63,78,Pass
+S0419,Student 0419,Female,24,Civil,3,5,Machine Learning,24,10,13,39,86,A+,9.19,72,Fail
+S0420,Student 0420,Female,23,Computer Science,4,8,Data Structures,23,10,15,28,76,A,7.69,74,Fail
+S0421,Student 0421,Female,24,Computer Science,1,4,Cloud Computing,30,7,9,26,72,A,7.08,87,Pass
+S0422,Student 0422,Female,18,Civil,1,3,Cloud Computing,28,6,9,46,89,A+,8.87,64,Fail
+S0423,Student 0423,Female,22,Information Technology,3,4,DBMS,19,10,8,43,80,A+,8.52,79,Pass
+S0424,Student 0424,Female,19,Civil,3,1,Data Structures,28,9,15,20,72,A,7.62,67,Fail
+S0425,Student 0425,Male,20,Information Technology,2,3,Mathematics,18,8,11,40,77,A,8.27,55,Fail
+S0426,Student 0426,Male,22,Mechanical,3,7,Cloud Computing,27,7,8,43,85,A+,7.98,100,Pass
+S0427,Student 0427,Female,19,Electronics,3,6,DBMS,21,10,11,34,76,A,7.69,80,Pass
+S0428,Student 0428,Female,23,Mechanical,1,2,Machine Learning,22,8,9,45,84,A+,8.95,87,Pass
+S0429,Student 0429,Male,21,Mechanical,4,8,Data Structures,30,8,15,41,94,O,9.88,84,Pass
+S0430,Student 0430,Female,22,Information Technology,3,2,Cloud Computing,28,7,11,45,91,O,8.99,75,Pass
+S0431,Student 0431,Male,21,Civil,1,5,Data Structures,22,6,14,41,83,A+,7.79,76,Pass
+S0432,Student 0432,Male,24,Electronics,3,4,Machine Learning,22,7,11,35,75,A,7.18,67,Fail
+S0433,Student 0433,Male,23,Electronics,2,4,Data Structures,21,10,13,24,68,B+,6.34,61,Fail
+S0434,Student 0434,Female,19,Mechanical,1,1,Cloud Computing,23,10,13,35,81,A+,8.54,91,Pass
+S0435,Student 0435,Female,22,Civil,3,7,Data Structures,30,10,10,21,71,A,7.46,88,Pass
+S0436,Student 0436,Female,23,Information Technology,3,7,Mathematics,30,7,15,23,75,A,7.52,99,Pass
+S0437,Student 0437,Male,22,Information Technology,1,4,Cloud Computing,27,6,13,31,77,A,8.13,94,Pass
+S0438,Student 0438,Female,23,Electronics,2,5,Cloud Computing,27,8,13,25,73,A,7.21,86,Pass
+S0439,Student 0439,Male,23,Electronics,3,7,DBMS,25,7,10,38,80,A+,7.67,98,Pass
+S0440,Student 0440,Female,19,Electronics,2,7,Cloud Computing,21,7,10,35,73,A,6.91,55,Fail
+S0441,Student 0441,Male,19,Civil,3,8,DBMS,22,10,8,32,72,A,7.43,61,Fail
+S0442,Student 0442,Female,20,Electronics,4,2,Cloud Computing,29,8,12,31,80,A+,8.07,78,Pass
+S0443,Student 0443,Male,24,Information Technology,4,2,DBMS,28,10,11,38,87,A+,8.88,91,Pass
+S0444,Student 0444,Female,21,Electronics,3,6,Mathematics,26,9,15,48,98,O,9.66,60,Fail
+S0445,Student 0445,Female,19,Computer Science,2,6,Cloud Computing,28,10,14,47,99,O,9.39,59,Fail
+S0446,Student 0446,Female,23,Electronics,3,5,Mathematics,22,10,14,28,74,A,7.74,83,Pass
+S0447,Student 0447,Male,19,Civil,4,7,Data Structures,20,6,10,43,79,A,8.09,70,Fail
+S0448,Student 0448,Male,18,Computer Science,4,2,Python,19,9,8,20,56,B,5.63,80,Pass
+S0449,Student 0449,Male,19,Electronics,2,2,Mathematics,24,8,11,27,70,A,6.93,73,Fail
+S0450,Student 0450,Female,22,Civil,2,1,Python,28,8,13,47,96,O,9.56,85,Pass
+S0451,Student 0451,Female,20,Mechanical,2,3,Machine Learning,27,9,14,36,86,A+,8.77,95,Pass
+S0452,Student 0452,Male,22,Mechanical,2,2,Cloud Computing,22,8,14,28,72,A,6.96,64,Fail
+S0453,Student 0453,Female,24,Computer Science,3,5,Cloud Computing,26,6,15,50,97,O,9.46,85,Pass
+S0454,Student 0454,Male,19,Electronics,2,1,Machine Learning,23,7,14,48,92,O,9.12,90,Pass
+S0455,Student 0455,Female,20,Mechanical,4,4,DBMS,19,9,11,36,75,A,7.87,94,Pass
+S0456,Student 0456,Female,20,Civil,3,7,Data Structures,19,7,10,29,65,B+,6.66,62,Fail
+S0457,Student 0457,Male,20,Civil,4,4,DBMS,18,7,8,37,70,A,6.62,56,Fail
+S0458,Student 0458,Female,21,Electronics,2,8,Mathematics,18,7,9,24,58,B,5.79,55,Fail
+S0459,Student 0459,Female,18,Electronics,4,6,Cloud Computing,29,6,13,22,70,A,6.47,64,Fail
+S0460,Student 0460,Female,19,Civil,4,3,Data Structures,22,9,8,23,62,B+,5.9,100,Pass
+S0461,Student 0461,Female,20,Information Technology,2,8,Mathematics,30,6,11,35,82,A+,8.42,79,Pass
+S0462,Student 0462,Male,18,Computer Science,1,2,DBMS,25,8,11,31,75,A,7.94,58,Fail
+S0463,Student 0463,Male,22,Computer Science,4,6,Python,20,8,9,32,69,B+,6.31,70,Fail
+S0464,Student 0464,Male,18,Mechanical,2,6,Python,21,7,15,22,65,B+,6.64,98,Pass
+S0465,Student 0465,Female,23,Electronics,2,2,Data Structures,25,7,13,37,82,A+,8.51,96,Pass
+S0466,Student 0466,Female,22,Computer Science,1,7,DBMS,29,7,12,48,96,O,9.58,57,Fail
+S0467,Student 0467,Male,18,Electronics,4,4,Machine Learning,20,10,13,30,73,A,7.03,84,Pass
+S0468,Student 0468,Female,23,Civil,2,8,DBMS,22,10,13,34,79,A,8.23,55,Fail
+S0469,Student 0469,Male,22,Computer Science,1,6,Machine Learning,21,8,9,41,79,A,8.28,89,Pass
+S0470,Student 0470,Male,24,Mechanical,2,5,DBMS,24,8,9,23,64,B+,6.59,88,Pass
+S0471,Student 0471,Female,23,Computer Science,2,1,Data Structures,19,9,11,23,62,B+,6.29,57,Fail
+S0472,Student 0472,Male,21,Mechanical,3,1,DBMS,21,10,9,20,60,B+,6.19,68,Fail
+S0473,Student 0473,Female,18,Information Technology,3,7,DBMS,30,6,12,36,84,A+,8.68,57,Fail
+S0474,Student 0474,Male,22,Computer Science,1,2,Mathematics,21,10,14,26,71,A,7.13,67,Fail
+S0475,Student 0475,Male,19,Computer Science,4,2,Mathematics,27,8,15,42,92,O,9.11,97,Pass
+S0476,Student 0476,Female,24,Computer Science,4,6,Mathematics,20,10,15,49,94,O,9.88,77,Pass
+S0477,Student 0477,Female,20,Electronics,4,7,Mathematics,23,10,11,38,82,A+,7.86,89,Pass
+S0478,Student 0478,Female,18,Mechanical,4,7,Python,29,6,12,39,86,A+,8.62,56,Fail
+S0479,Student 0479,Male,19,Electronics,2,4,DBMS,18,8,10,23,59,B,5.85,57,Fail
+S0480,Student 0480,Male,23,Electronics,3,4,Data Structures,22,8,9,38,77,A,7.78,80,Pass
+S0481,Student 0481,Female,18,Information Technology,3,8,Data Structures,25,10,9,39,83,A+,8.06,96,Pass
+S0482,Student 0482,Male,23,Information Technology,3,6,Cloud Computing,24,6,11,43,84,A+,8.82,96,Pass
+S0483,Student 0483,Male,18,Mechanical,1,5,Machine Learning,18,8,10,30,66,B+,6.84,87,Pass
+S0484,Student 0484,Female,22,Mechanical,4,2,Data Structures,24,8,14,24,70,A,6.8,63,Fail
+S0485,Student 0485,Male,21,Information Technology,4,5,Python,24,10,14,44,92,O,8.76,99,Pass
+S0486,Student 0486,Male,19,Civil,2,8,Cloud Computing,28,10,11,37,86,A+,9.2,94,Pass
+S0487,Student 0487,Female,20,Information Technology,3,7,DBMS,28,10,9,23,70,A,6.9,97,Pass
+S0488,Student 0488,Female,22,Computer Science,3,6,Machine Learning,28,6,12,25,71,A,7.24,77,Pass
+S0489,Student 0489,Male,19,Computer Science,4,1,Data Structures,21,8,10,44,83,A+,7.83,60,Fail
+S0490,Student 0490,Male,23,Civil,2,5,Python,23,6,12,34,75,A,6.93,85,Pass
+S0491,Student 0491,Male,21,Civil,2,4,Machine Learning,26,8,15,39,88,A+,9.03,64,Fail
+S0492,Student 0492,Male,21,Civil,1,5,Data Structures,18,8,11,45,82,A+,8.34,99,Pass
+S0493,Student 0493,Female,19,Information Technology,1,7,Mathematics,22,8,9,20,59,B,6.34,73,Fail
+S0494,Student 0494,Female,22,Mechanical,1,6,Cloud Computing,27,10,9,25,71,A,7.1,67,Fail
+S0495,Student 0495,Female,20,Information Technology,1,4,Machine Learning,22,8,15,32,77,A,7.12,65,Fail
+S0496,Student 0496,Female,19,Electronics,2,5,Python,28,8,14,48,98,O,10,56,Fail
+S0497,Student 0497,Male,21,Computer Science,3,7,Mathematics,20,6,14,36,76,A,7.73,98,Pass
+S0498,Student 0498,Male,22,Computer Science,2,7,DBMS,27,8,15,37,87,A+,8.35,63,Fail
+S0499,Student 0499,Male,20,Civil,2,3,DBMS,29,10,10,33,82,A+,8.39,64,Fail
+S0500,Student 0500,Female,21,Information Technology,1,3,DBMS,20,6,13,48,87,A+,9.25,81,Pass
+S0501,Student 0501,Male,22,Electronics,2,4,Python,20,7,8,44,79,A,8.04,94,Pass
+S0502,Student 0502,Female,19,Computer Science,2,1,DBMS,19,9,10,36,74,A,7.36,93,Pass
+S0503,Student 0503,Male,20,Mechanical,4,8,Data Structures,20,7,11,21,59,B,6.22,81,Pass
+S0504,Student 0504,Female,24,Mechanical,2,4,Data Structures,19,7,15,47,88,A+,8.79,94,Pass
+S0505,Student 0505,Male,22,Mechanical,2,7,Cloud Computing,30,6,14,43,93,O,9.17,75,Pass
+S0506,Student 0506,Male,19,Information Technology,4,8,Python,21,10,14,43,88,A+,8.87,57,Fail
+S0507,Student 0507,Male,23,Electronics,4,7,DBMS,30,8,15,25,78,A,7.55,82,Pass
+S0508,Student 0508,Male,21,Civil,2,8,Mathematics,25,6,9,25,65,B+,7.03,92,Pass
+S0509,Student 0509,Female,23,Mechanical,3,8,Python,20,9,11,48,88,A+,8.31,84,Pass
+S0510,Student 0510,Male,21,Computer Science,1,2,Python,29,9,13,22,73,A,7.55,88,Pass
+S0511,Student 0511,Male,21,Civil,4,1,Data Structures,23,10,10,25,68,B+,6.41,64,Fail
+S0512,Student 0512,Male,22,Electronics,3,8,DBMS,28,7,9,48,92,O,9.75,63,Fail
+S0513,Student 0513,Female,21,Electronics,1,8,Cloud Computing,25,10,8,39,82,A+,7.89,86,Pass
+S0514,Student 0514,Male,18,Mechanical,4,2,Machine Learning,27,6,11,48,92,O,8.93,90,Pass
+S0515,Student 0515,Female,20,Computer Science,2,1,Mathematics,23,6,10,47,86,A+,8.8,57,Fail
+S0516,Student 0516,Male,21,Information Technology,1,2,Cloud Computing,20,7,12,39,78,A,8.03,97,Pass
+S0517,Student 0517,Female,24,Civil,3,1,Python,30,8,13,31,82,A+,8.58,79,Pass
+S0518,Student 0518,Male,23,Civil,1,5,Cloud Computing,20,6,12,30,68,B+,6.7,88,Pass
+S0519,Student 0519,Female,21,Computer Science,1,2,Machine Learning,29,10,9,35,83,A+,8.43,99,Pass
+S0520,Student 0520,Female,22,Civil,3,5,Machine Learning,27,10,13,49,99,O,10,63,Fail
+S0521,Student 0521,Male,23,Mechanical,4,3,Machine Learning,21,8,11,20,60,B+,5.43,62,Fail
+S0522,Student 0522,Female,20,Computer Science,4,7,Python,23,8,11,20,62,B+,5.84,95,Pass
+S0523,Student 0523,Female,23,Information Technology,3,5,Machine Learning,26,8,8,23,65,B+,6.3,98,Pass
+S0524,Student 0524,Male,21,Civil,1,3,Data Structures,23,8,15,49,95,O,9.86,85,Pass
+S0525,Student 0525,Female,22,Computer Science,4,6,Cloud Computing,30,9,8,46,93,O,9.06,88,Pass
+S0526,Student 0526,Male,20,Civil,1,4,Machine Learning,28,8,13,22,71,A,6.84,64,Fail
+S0527,Student 0527,Female,21,Mechanical,2,7,Data Structures,27,6,12,42,87,A+,8.95,75,Pass
+S0528,Student 0528,Female,24,Information Technology,4,4,DBMS,25,8,11,36,80,A+,7.61,74,Fail
+S0529,Student 0529,Female,21,Information Technology,2,2,Cloud Computing,26,6,15,48,95,O,9.08,87,Pass
+S0530,Student 0530,Male,18,Civil,3,6,Data Structures,30,6,10,26,72,A,7.15,57,Fail
+S0531,Student 0531,Male,22,Electronics,1,2,DBMS,25,6,9,36,76,A,7.89,97,Pass
+S0532,Student 0532,Male,20,Electronics,2,6,Data Structures,21,8,12,37,78,A,8.13,75,Pass
+S0533,Student 0533,Female,20,Computer Science,2,5,Python,18,10,9,26,63,B+,6.12,89,Pass
+S0534,Student 0534,Male,21,Computer Science,3,4,Data Structures,19,8,13,37,77,A,7.16,83,Pass
+S0535,Student 0535,Female,22,Information Technology,1,7,Python,19,9,14,25,67,B+,6.82,100,Pass
+S0536,Student 0536,Male,24,Electronics,3,6,Data Structures,29,10,9,49,97,O,9.78,84,Pass
+S0537,Student 0537,Female,20,Mechanical,1,8,DBMS,28,9,15,27,79,A,7.47,69,Fail
+S0538,Student 0538,Female,21,Mechanical,2,6,DBMS,25,9,8,22,64,B+,5.94,85,Pass
+S0539,Student 0539,Female,22,Computer Science,3,6,Machine Learning,27,7,9,32,75,A,7.86,100,Pass
+S0540,Student 0540,Female,21,Information Technology,3,8,Cloud Computing,27,9,11,39,86,A+,8.66,70,Fail
+S0541,Student 0541,Male,19,Information Technology,3,4,Mathematics,27,9,14,38,88,A+,8.85,76,Pass
+S0542,Student 0542,Male,20,Information Technology,4,2,Machine Learning,27,9,13,37,86,A+,8.99,61,Fail
+S0543,Student 0543,Male,19,Mechanical,1,2,Mathematics,27,9,13,35,84,A+,8.59,96,Pass
+S0544,Student 0544,Male,19,Computer Science,1,3,Mathematics,20,9,12,32,73,A,7.39,94,Pass
+S0545,Student 0545,Female,24,Electronics,3,5,Cloud Computing,29,8,9,38,84,A+,8.53,55,Fail
+S0546,Student 0546,Female,18,Computer Science,3,1,DBMS,26,6,8,42,82,A+,8.58,90,Pass
+S0547,Student 0547,Female,21,Electronics,1,4,Cloud Computing,29,10,14,40,93,O,9.55,75,Pass
+S0548,Student 0548,Male,20,Mechanical,2,3,Cloud Computing,20,7,14,46,87,A+,9.11,78,Pass
+S0549,Student 0549,Male,18,Computer Science,2,1,Python,28,6,10,43,87,A+,8.89,86,Pass
+S0550,Student 0550,Female,21,Computer Science,4,8,Mathematics,27,9,10,34,80,A+,7.91,87,Pass
+S0551,Student 0551,Female,21,Electronics,2,3,Cloud Computing,27,6,15,47,95,O,9.75,70,Fail
+S0552,Student 0552,Male,19,Civil,3,1,Python,27,9,13,23,72,A,7.18,92,Pass
+S0553,Student 0553,Male,23,Civil,3,8,Machine Learning,19,10,9,27,65,B+,6.66,85,Pass
+S0554,Student 0554,Female,21,Civil,3,1,DBMS,26,6,15,34,81,A+,8.59,87,Pass
+S0555,Student 0555,Female,22,Electronics,3,5,Data Structures,18,10,12,43,83,A+,8.01,91,Pass
+S0556,Student 0556,Male,24,Computer Science,1,5,Mathematics,27,6,12,35,80,A+,7.55,60,Fail
+S0557,Student 0557,Male,23,Electronics,3,3,Machine Learning,22,8,12,20,62,B+,6.32,62,Fail
+S0558,Student 0558,Female,18,Mechanical,3,3,DBMS,30,7,15,25,77,A,8.13,88,Pass
+S0559,Student 0559,Male,19,Computer Science,2,8,Cloud Computing,30,9,11,41,91,O,9.37,83,Pass
+S0560,Student 0560,Female,21,Civil,3,1,Mathematics,22,6,8,25,61,B+,5.98,84,Pass
+S0561,Student 0561,Female,18,Civil,2,7,Mathematics,29,9,15,28,81,A+,8.14,64,Fail
+S0562,Student 0562,Female,22,Electronics,4,7,Mathematics,23,10,8,23,64,B+,6.56,89,Pass
+S0563,Student 0563,Male,23,Electronics,3,5,DBMS,30,6,12,40,88,A+,8.67,92,Pass
+S0564,Student 0564,Male,18,Civil,2,6,Mathematics,29,7,13,37,86,A+,8.81,55,Fail
+S0565,Student 0565,Male,18,Mechanical,1,2,Mathematics,25,8,11,43,87,A+,8.4,73,Fail
+S0566,Student 0566,Male,21,Civil,1,1,Machine Learning,28,7,9,42,86,A+,8.1,62,Fail
+S0567,Student 0567,Female,20,Civil,2,2,Mathematics,20,8,12,34,74,A,7.92,97,Pass
+S0568,Student 0568,Female,18,Mechanical,3,5,Data Structures,30,6,12,44,92,O,9.06,58,Fail
+S0569,Student 0569,Female,18,Electronics,3,3,Cloud Computing,19,9,11,39,78,A,7.41,80,Pass
+S0570,Student 0570,Male,18,Computer Science,4,4,Machine Learning,28,6,15,42,91,O,8.62,71,Fail
+S0571,Student 0571,Female,19,Civil,3,8,Python,25,7,8,49,89,A+,9.1,57,Fail
+S0572,Student 0572,Male,22,Electronics,4,1,Machine Learning,29,9,15,33,86,A+,9.01,80,Pass
+S0573,Student 0573,Female,20,Computer Science,1,7,Mathematics,30,9,9,38,86,A+,9.12,89,Pass
+S0574,Student 0574,Female,24,Electronics,4,1,Mathematics,28,6,13,37,84,A+,7.9,76,Pass
+S0575,Student 0575,Male,23,Electronics,2,3,Machine Learning,18,9,11,29,67,B+,6.57,99,Pass
+S0576,Student 0576,Male,21,Electronics,4,2,Mathematics,25,7,10,21,63,B+,5.73,67,Fail
+S0577,Student 0577,Male,21,Mechanical,1,5,Cloud Computing,26,9,8,21,64,B+,5.87,76,Pass
+S0578,Student 0578,Male,21,Information Technology,2,8,Mathematics,26,7,11,49,93,O,8.74,59,Fail
+S0579,Student 0579,Female,24,Information Technology,4,1,Data Structures,29,7,8,25,69,B+,6.36,95,Pass
+S0580,Student 0580,Male,18,Information Technology,4,3,Machine Learning,19,6,9,35,69,B+,7.26,93,Pass
+S0581,Student 0581,Male,20,Computer Science,4,6,Mathematics,28,9,13,23,73,A,7.39,98,Pass
+S0582,Student 0582,Female,22,Computer Science,1,3,DBMS,19,6,12,24,61,B+,5.7,81,Pass
+S0583,Student 0583,Male,18,Computer Science,4,4,Machine Learning,18,7,9,45,79,A,8.03,95,Pass
+S0584,Student 0584,Female,23,Mechanical,1,1,Python,20,6,12,33,71,A,7.47,99,Pass
+S0585,Student 0585,Male,22,Computer Science,2,3,Mathematics,22,10,15,33,80,A+,8.53,70,Fail
+S0586,Student 0586,Male,18,Computer Science,4,2,Mathematics,30,8,13,33,84,A+,8.47,55,Fail
+S0587,Student 0587,Female,18,Civil,1,6,Machine Learning,26,7,15,44,92,O,9.39,95,Pass
+S0588,Student 0588,Male,23,Computer Science,1,3,Mathematics,25,9,10,25,69,B+,7.41,97,Pass
+S0589,Student 0589,Male,19,Electronics,3,4,Cloud Computing,22,8,15,21,66,B+,6.89,61,Fail
+S0590,Student 0590,Female,19,Information Technology,4,2,Python,21,9,13,33,76,A,7.9,67,Fail
+S0591,Student 0591,Female,18,Information Technology,3,4,Python,21,9,11,32,73,A,6.79,69,Fail
+S0592,Student 0592,Male,23,Mechanical,2,4,Machine Learning,25,7,14,31,77,A,7.65,63,Fail
+S0593,Student 0593,Female,21,Electronics,3,4,DBMS,20,6,8,28,62,B+,5.73,63,Fail
+S0594,Student 0594,Male,22,Mechanical,2,6,Data Structures,22,10,10,45,87,A+,9.24,95,Pass
+S0595,Student 0595,Female,18,Civil,2,2,Cloud Computing,26,9,11,38,84,A+,8.8,85,Pass
+S0596,Student 0596,Male,21,Mechanical,2,4,DBMS,24,10,11,48,93,O,9.84,92,Pass
+S0597,Student 0597,Male,21,Information Technology,1,8,Mathematics,30,10,8,33,81,A+,7.97,88,Pass
+S0598,Student 0598,Female,19,Mechanical,2,2,Machine Learning,30,6,14,50,100,O,9.56,68,Fail
+S0599,Student 0599,Male,21,Information Technology,1,8,Mathematics,22,7,15,47,91,O,9.4,91,Pass
+S0600,Student 0600,Male,21,Mechanical,2,7,Data Structures,30,8,15,42,95,O,8.9,95,Pass
+S0601,Student 0601,Female,23,Electronics,1,5,Cloud Computing,30,8,11,45,94,O,8.9,98,Pass
+S0602,Student 0602,Male,23,Information Technology,3,1,Python,24,8,15,39,86,A+,8.44,57,Fail
+S0603,Student 0603,Male,24,Civil,1,4,Data Structures,23,7,9,40,79,A,8.18,85,Pass
+S0604,Student 0604,Female,21,Computer Science,3,6,DBMS,26,9,12,21,68,B+,6.65,59,Fail
+S0605,Student 0605,Male,19,Civil,1,8,Mathematics,26,10,12,34,82,A+,8.04,94,Pass
+S0606,Student 0606,Male,21,Mechanical,1,2,Cloud Computing,20,8,9,23,60,B+,5.73,65,Fail
+S0607,Student 0607,Male,20,Computer Science,2,1,DBMS,24,10,10,35,79,A,7.8,77,Pass
+S0608,Student 0608,Female,21,Computer Science,1,1,Data Structures,26,8,14,38,86,A+,8.79,76,Pass
+S0609,Student 0609,Female,20,Civil,4,8,DBMS,27,7,12,25,71,A,6.77,71,Fail
+S0610,Student 0610,Male,24,Information Technology,2,6,DBMS,25,7,10,42,84,A+,8.14,89,Pass
+S0611,Student 0611,Male,22,Computer Science,2,4,Python,18,8,10,34,70,A,6.84,71,Fail
+S0612,Student 0612,Male,21,Information Technology,3,6,Data Structures,23,9,10,37,79,A,7.45,74,Fail
+S0613,Student 0613,Female,24,Mechanical,2,8,DBMS,20,6,13,40,79,A,7.65,100,Pass
+S0614,Student 0614,Male,20,Civil,2,8,DBMS,29,6,15,48,98,O,9.37,57,Fail
+S0615,Student 0615,Male,24,Information Technology,4,4,Cloud Computing,23,6,13,21,63,B+,6.47,93,Pass
+S0616,Student 0616,Female,22,Electronics,2,1,Python,26,9,9,36,80,A+,7.63,80,Pass
+S0617,Student 0617,Female,20,Civil,1,6,Cloud Computing,20,9,13,32,74,A,6.81,78,Pass
+S0618,Student 0618,Female,23,Electronics,4,2,Data Structures,29,9,14,45,97,O,9.45,83,Pass
+S0619,Student 0619,Male,22,Mechanical,2,2,Data Structures,21,8,15,47,91,O,9.68,88,Pass
+S0620,Student 0620,Male,19,Mechanical,1,1,Cloud Computing,28,8,14,25,75,A,7.45,90,Pass
+S0621,Student 0621,Female,19,Computer Science,4,5,Machine Learning,25,6,12,46,89,A+,8.66,92,Pass
+S0622,Student 0622,Female,19,Information Technology,1,3,DBMS,22,9,9,40,80,A+,8.47,97,Pass
+S0623,Student 0623,Female,22,Mechanical,2,1,Python,30,8,15,22,75,A,7.79,93,Pass
+S0624,Student 0624,Male,19,Mechanical,3,8,Mathematics,19,8,8,47,82,A+,7.8,71,Fail
+S0625,Student 0625,Female,18,Electronics,4,3,DBMS,20,6,12,31,69,B+,7.06,81,Pass
+S0626,Student 0626,Female,24,Electronics,3,2,Machine Learning,21,7,9,39,76,A,7.65,65,Fail
+S0627,Student 0627,Female,20,Electronics,3,6,Python,26,10,13,46,95,O,8.92,64,Fail
+S0628,Student 0628,Male,21,Mechanical,4,6,Data Structures,19,7,10,36,72,A,7.6,69,Fail
+S0629,Student 0629,Female,22,Mechanical,1,2,Data Structures,18,9,13,29,69,B+,6.74,99,Pass
+S0630,Student 0630,Male,23,Civil,3,3,Mathematics,22,6,9,27,64,B+,6.83,63,Fail
+S0631,Student 0631,Female,24,Computer Science,3,3,Data Structures,20,6,14,42,82,A+,7.69,62,Fail
+S0632,Student 0632,Male,18,Mechanical,1,4,Python,18,10,8,35,71,A,7.59,62,Fail
+S0633,Student 0633,Male,19,Electronics,1,2,Python,27,7,11,25,70,A,6.82,97,Pass
+S0634,Student 0634,Male,22,Electronics,3,6,Data Structures,26,10,11,36,83,A+,7.78,91,Pass
+S0635,Student 0635,Female,20,Computer Science,2,5,Data Structures,30,10,8,43,91,O,9.61,61,Fail
+S0636,Student 0636,Male,21,Civil,2,8,Mathematics,19,7,13,32,71,A,6.76,82,Pass
+S0637,Student 0637,Male,18,Information Technology,3,2,Cloud Computing,19,10,10,35,74,A,7.65,78,Pass
+S0638,Student 0638,Female,20,Electronics,4,2,Cloud Computing,22,9,12,41,84,A+,8.07,83,Pass
+S0639,Student 0639,Male,21,Mechanical,2,2,Cloud Computing,28,8,10,20,66,B+,6.59,98,Pass
+S0640,Student 0640,Male,20,Mechanical,1,2,Data Structures,24,9,9,43,85,A+,7.98,65,Fail
+S0641,Student 0641,Female,24,Computer Science,4,2,Data Structures,24,9,12,44,89,A+,9.22,100,Pass
+S0642,Student 0642,Female,18,Mechanical,3,8,Mathematics,27,9,15,36,87,A+,8.28,72,Fail
+S0643,Student 0643,Female,23,Information Technology,3,8,Cloud Computing,21,7,8,23,59,B,6.3,58,Fail
+S0644,Student 0644,Male,23,Information Technology,2,7,Machine Learning,28,8,10,29,75,A,7.65,94,Pass
+S0645,Student 0645,Male,24,Civil,4,8,Data Structures,22,9,15,36,82,A+,8.25,71,Fail
+S0646,Student 0646,Male,22,Information Technology,4,2,Cloud Computing,25,8,14,34,81,A+,7.54,84,Pass
+S0647,Student 0647,Female,23,Electronics,2,8,Cloud Computing,20,8,14,35,77,A,7.78,62,Fail
+S0648,Student 0648,Female,22,Civil,4,8,Machine Learning,20,10,8,32,70,A,6.99,71,Fail
+S0649,Student 0649,Male,24,Electronics,3,6,Python,18,10,8,24,60,B+,5.82,78,Pass
+S0650,Student 0650,Male,19,Electronics,4,2,Cloud Computing,23,8,14,31,76,A,7.79,58,Fail
+S0651,Student 0651,Female,23,Electronics,1,2,DBMS,19,8,10,20,57,B,5.49,89,Pass
+S0652,Student 0652,Female,22,Mechanical,4,5,Python,29,9,8,30,76,A,7.68,79,Pass
+S0653,Student 0653,Female,19,Information Technology,4,2,Mathematics,28,7,13,35,83,A+,8.67,87,Pass
+S0654,Student 0654,Female,18,Civil,3,6,Cloud Computing,21,9,9,46,85,A+,8.16,89,Pass
+S0655,Student 0655,Female,21,Electronics,4,4,Machine Learning,29,6,9,38,82,A+,7.93,76,Pass
+S0656,Student 0656,Male,21,Computer Science,3,2,Mathematics,22,10,12,33,77,A,7.75,97,Pass
+S0657,Student 0657,Male,22,Mechanical,3,8,Mathematics,30,10,10,48,98,O,9.95,56,Fail
+S0658,Student 0658,Male,22,Mechanical,2,8,DBMS,28,10,14,49,100,O,10,91,Pass
+S0659,Student 0659,Male,23,Computer Science,3,8,Data Structures,21,7,12,47,87,A+,8.59,82,Pass
+S0660,Student 0660,Male,18,Computer Science,4,5,DBMS,28,7,12,41,88,A+,8.48,93,Pass
+S0661,Student 0661,Female,23,Computer Science,2,1,Data Structures,30,8,15,35,88,A+,9.39,90,Pass
+S0662,Student 0662,Male,23,Information Technology,2,3,DBMS,20,6,12,45,83,A+,8.49,72,Fail
+S0663,Student 0663,Female,20,Information Technology,4,1,Python,19,8,12,47,86,A+,9.08,59,Fail
+S0664,Student 0664,Female,21,Information Technology,4,3,Data Structures,19,10,9,36,74,A,7.79,97,Pass
+S0665,Student 0665,Male,19,Information Technology,2,2,DBMS,23,10,14,45,92,O,9.72,70,Fail
+S0666,Student 0666,Female,23,Information Technology,2,4,DBMS,25,9,12,47,93,O,8.77,92,Pass
+S0667,Student 0667,Female,24,Information Technology,3,7,Cloud Computing,28,7,12,48,95,O,9.34,64,Fail
+S0668,Student 0668,Female,24,Electronics,1,1,Mathematics,28,6,11,28,73,A,7.16,90,Pass
+S0669,Student 0669,Male,20,Information Technology,2,8,Cloud Computing,18,9,12,29,68,B+,7.32,60,Fail
+S0670,Student 0670,Female,21,Computer Science,2,8,Mathematics,23,9,8,28,68,B+,7.19,60,Fail
+S0671,Student 0671,Female,21,Mechanical,3,7,Python,20,8,9,31,68,B+,6.92,81,Pass
+S0672,Student 0672,Female,22,Information Technology,1,3,Mathematics,25,7,8,32,72,A,7.35,67,Fail
+S0673,Student 0673,Male,20,Information Technology,1,3,Data Structures,26,7,14,45,92,O,9.14,75,Pass
+S0674,Student 0674,Male,18,Computer Science,3,5,Data Structures,19,9,13,25,66,B+,7.05,80,Pass
+S0675,Student 0675,Female,19,Information Technology,2,2,Cloud Computing,21,8,10,21,60,B+,6.14,80,Pass
+S0676,Student 0676,Female,18,Information Technology,3,3,Machine Learning,19,6,14,44,83,A+,8.69,84,Pass
+S0677,Student 0677,Male,24,Computer Science,2,4,DBMS,22,9,14,24,69,B+,7.33,82,Pass
+S0678,Student 0678,Female,19,Electronics,2,7,Data Structures,24,7,8,29,68,B+,6.48,71,Fail
+S0679,Student 0679,Female,23,Electronics,4,2,Python,25,7,13,42,87,A+,8.92,80,Pass
+S0680,Student 0680,Female,22,Mechanical,3,2,Python,26,6,8,30,70,A,6.97,70,Fail
+S0681,Student 0681,Male,22,Civil,1,1,DBMS,26,10,14,29,79,A,8.11,80,Pass
+S0682,Student 0682,Female,23,Information Technology,2,5,Data Structures,26,9,13,48,96,O,9.16,84,Pass
+S0683,Student 0683,Female,23,Civil,4,3,DBMS,19,8,8,24,59,B,6.35,86,Pass
+S0684,Student 0684,Female,24,Electronics,4,5,DBMS,27,8,13,33,81,A+,7.88,65,Fail
+S0685,Student 0685,Male,23,Computer Science,4,1,Data Structures,20,6,11,25,62,B+,6.16,57,Fail
+S0686,Student 0686,Female,18,Mechanical,4,2,Cloud Computing,18,9,13,42,82,A+,8.18,90,Pass
+S0687,Student 0687,Female,22,Computer Science,1,6,Python,21,8,10,46,85,A+,8.8,65,Fail
+S0688,Student 0688,Female,23,Civil,2,1,Machine Learning,30,10,10,33,83,A+,8.0,59,Fail
+S0689,Student 0689,Male,24,Information Technology,3,1,DBMS,28,6,14,31,79,A,8.41,92,Pass
+S0690,Student 0690,Male,20,Electronics,2,1,Python,25,9,15,40,89,A+,9.01,72,Fail
+S0691,Student 0691,Female,20,Information Technology,4,6,Mathematics,29,10,10,26,75,A,7.86,58,Fail
+S0692,Student 0692,Male,19,Information Technology,1,7,Python,24,8,10,27,69,B+,6.41,80,Pass
+S0693,Student 0693,Female,23,Mechanical,4,5,Mathematics,30,7,9,29,75,A,7.86,86,Pass
+S0694,Student 0694,Female,20,Civil,2,6,Mathematics,19,8,11,35,73,A,7.76,83,Pass
+S0695,Student 0695,Male,22,Civil,4,2,Cloud Computing,30,8,10,33,81,A+,8.01,95,Pass
+S0696,Student 0696,Male,20,Electronics,4,4,Mathematics,28,7,15,36,86,A+,8.78,95,Pass
+S0697,Student 0697,Female,20,Mechanical,4,2,Cloud Computing,22,7,10,41,80,A+,8.41,74,Fail
+S0698,Student 0698,Female,20,Civil,1,2,Python,26,6,14,33,79,A,7.86,61,Fail
+S0699,Student 0699,Male,18,Electronics,1,1,Python,29,9,10,45,93,O,9.71,66,Fail
+S0700,Student 0700,Male,19,Mechanical,3,6,Machine Learning,29,9,15,39,92,O,9.01,71,Fail
+S0701,Student 0701,Male,23,Computer Science,1,5,Mathematics,19,9,8,20,56,B,5.14,80,Pass
+S0702,Student 0702,Female,23,Mechanical,4,7,Mathematics,29,10,15,29,83,A+,8.68,94,Pass
+S0703,Student 0703,Male,24,Mechanical,3,2,Data Structures,20,6,11,23,60,B+,6.24,56,Fail
+S0704,Student 0704,Male,18,Information Technology,2,8,Mathematics,20,7,14,46,87,A+,9.13,95,Pass
+S0705,Student 0705,Female,21,Electronics,4,3,Cloud Computing,24,6,9,25,64,B+,6.69,64,Fail
+S0706,Student 0706,Male,18,Mechanical,1,8,Machine Learning,21,7,12,38,78,A,7.26,80,Pass
+S0707,Student 0707,Female,19,Mechanical,4,8,Mathematics,27,10,12,21,70,A,6.88,86,Pass
+S0708,Student 0708,Female,18,Information Technology,1,7,Machine Learning,23,10,9,28,70,A,6.9,96,Pass
+S0709,Student 0709,Female,19,Mechanical,3,8,Mathematics,24,6,10,29,69,B+,6.86,67,Fail
+S0710,Student 0710,Female,21,Civil,2,6,Machine Learning,29,9,10,48,96,O,9.87,73,Fail
+S0711,Student 0711,Male,19,Electronics,4,3,Machine Learning,21,8,9,41,79,A,7.45,85,Pass
+S0712,Student 0712,Male,20,Civil,4,2,Cloud Computing,25,8,11,26,70,A,6.46,90,Pass
+S0713,Student 0713,Male,18,Electronics,3,3,Data Structures,26,6,9,30,71,A,6.64,82,Pass
+S0714,Student 0714,Male,24,Civil,2,8,DBMS,23,8,8,44,83,A+,8.02,90,Pass
+S0715,Student 0715,Male,24,Civil,1,1,Cloud Computing,30,9,9,23,71,A,7.23,94,Pass
+S0716,Student 0716,Female,23,Civil,1,2,Data Structures,28,6,11,49,94,O,8.99,78,Pass
+S0717,Student 0717,Male,21,Mechanical,4,2,Data Structures,28,8,13,46,95,O,9.05,63,Fail
+S0718,Student 0718,Female,20,Mechanical,1,4,Cloud Computing,23,8,10,22,63,B+,6.15,72,Fail
+S0719,Student 0719,Female,18,Computer Science,2,7,Data Structures,20,9,14,49,92,O,9.68,81,Pass
+S0720,Student 0720,Male,21,Mechanical,2,1,Mathematics,30,10,9,22,71,A,6.88,76,Pass
+S0721,Student 0721,Female,21,Information Technology,4,1,Mathematics,28,7,8,40,83,A+,8.66,100,Pass
+S0722,Student 0722,Male,22,Mechanical,3,6,DBMS,18,8,10,42,78,A,7.74,80,Pass
+S0723,Student 0723,Female,23,Civil,4,6,Mathematics,24,7,12,22,65,B+,6.54,57,Fail
+S0724,Student 0724,Male,18,Computer Science,3,4,Python,26,10,12,36,84,A+,8.71,76,Pass
+S0725,Student 0725,Female,23,Information Technology,3,4,DBMS,29,9,9,43,90,O,9.41,58,Fail
+S0726,Student 0726,Female,20,Civil,3,2,Python,30,6,15,29,80,A+,8.28,91,Pass
+S0727,Student 0727,Male,18,Computer Science,2,6,DBMS,22,10,10,42,84,A+,8.42,79,Pass
+S0728,Student 0728,Male,21,Electronics,2,6,Cloud Computing,19,7,14,46,86,A+,8.1,81,Pass
+S0729,Student 0729,Female,24,Computer Science,4,4,Cloud Computing,19,8,14,38,79,A,7.92,90,Pass
+S0730,Student 0730,Male,21,Electronics,4,7,Cloud Computing,29,9,14,46,98,O,9.37,65,Fail
+S0731,Student 0731,Female,18,Mechanical,2,2,Mathematics,21,9,15,21,66,B+,7.13,65,Fail
+S0732,Student 0732,Female,20,Civil,4,2,Python,23,10,12,21,66,B+,6.18,88,Pass
+S0733,Student 0733,Female,20,Electronics,3,5,Cloud Computing,18,7,10,45,80,A+,7.91,92,Pass
+S0734,Student 0734,Female,22,Computer Science,2,8,Python,19,10,13,22,64,B+,6.3,57,Fail
+S0735,Student 0735,Female,24,Mechanical,3,7,Cloud Computing,29,10,10,44,93,O,9.31,63,Fail
+S0736,Student 0736,Female,22,Mechanical,4,3,Mathematics,23,6,14,32,75,A,7.98,69,Fail
+S0737,Student 0737,Female,22,Information Technology,4,5,Mathematics,19,7,8,38,72,A,7.56,95,Pass
+S0738,Student 0738,Female,22,Information Technology,1,4,Machine Learning,26,10,8,50,94,O,9.43,91,Pass
+S0739,Student 0739,Female,18,Information Technology,1,3,Python,22,7,11,46,86,A+,9.01,100,Pass
+S0740,Student 0740,Male,24,Civil,3,7,Machine Learning,18,9,8,30,65,B+,6.12,82,Pass
+S0741,Student 0741,Male,20,Civil,3,7,DBMS,19,6,9,37,71,A,6.84,65,Fail
+S0742,Student 0742,Male,20,Information Technology,2,5,Cloud Computing,28,7,8,39,82,A+,7.82,75,Pass
+S0743,Student 0743,Male,24,Mechanical,1,6,Data Structures,24,8,12,32,76,A,7.06,62,Fail
+S0744,Student 0744,Female,21,Civil,2,8,Machine Learning,30,10,14,50,100,O,9.72,62,Fail
+S0745,Student 0745,Male,19,Civil,4,2,Cloud Computing,18,9,11,49,87,A+,8.42,56,Fail
+S0746,Student 0746,Male,20,Civil,2,5,Machine Learning,24,9,9,47,89,A+,8.9,95,Pass
+S0747,Student 0747,Female,23,Civil,2,4,Machine Learning,24,10,15,21,70,A,7.38,55,Fail
+S0748,Student 0748,Female,24,Computer Science,1,1,Cloud Computing,22,10,12,46,90,O,8.86,98,Pass
+S0749,Student 0749,Male,24,Computer Science,3,1,Data Structures,29,10,9,29,77,A,7.57,60,Fail
+S0750,Student 0750,Female,24,Computer Science,3,7,Data Structures,27,10,13,48,98,O,10,98,Pass
+S0751,Student 0751,Male,23,Mechanical,3,4,Mathematics,23,8,11,34,76,A,7.39,93,Pass
+S0752,Student 0752,Female,22,Information Technology,4,1,Python,28,7,14,37,86,A+,8.84,99,Pass
+S0753,Student 0753,Female,21,Information Technology,1,1,Mathematics,25,6,13,46,90,O,9.39,79,Pass
+S0754,Student 0754,Female,23,Computer Science,1,2,Cloud Computing,23,7,15,20,65,B+,6.79,69,Fail
+S0755,Student 0755,Male,20,Electronics,2,2,Machine Learning,28,8,11,27,74,A,7.96,86,Pass
+S0756,Student 0756,Female,19,Mechanical,2,1,Data Structures,28,9,9,47,93,O,9.38,72,Fail
+S0757,Student 0757,Male,22,Civil,2,3,Python,27,7,9,24,67,B+,7.22,71,Fail
+S0758,Student 0758,Male,21,Electronics,2,1,Mathematics,28,10,12,41,91,O,9.56,90,Pass
+S0759,Student 0759,Male,23,Information Technology,3,7,Cloud Computing,22,6,15,35,78,A,7.82,78,Pass
+S0760,Student 0760,Male,22,Computer Science,1,5,Cloud Computing,26,9,13,20,68,B+,6.43,80,Pass
+S0761,Student 0761,Male,18,Information Technology,2,7,Python,21,7,10,30,68,B+,6.28,74,Fail
+S0762,Student 0762,Female,24,Mechanical,4,1,Machine Learning,30,8,12,27,77,A,7.67,61,Fail
+S0763,Student 0763,Male,18,Information Technology,3,4,Python,30,10,15,44,99,O,10,61,Fail
+S0764,Student 0764,Female,18,Information Technology,1,7,DBMS,29,6,10,21,66,B+,6.07,83,Pass
+S0765,Student 0765,Male,21,Information Technology,1,1,DBMS,24,9,9,39,81,A+,7.78,81,Pass
+S0766,Student 0766,Female,22,Mechanical,4,7,Machine Learning,27,6,13,40,86,A+,8.94,98,Pass
+S0767,Student 0767,Male,23,Electronics,2,2,Python,18,10,9,38,75,A,7.99,67,Fail
+S0768,Student 0768,Male,18,Civil,3,6,Cloud Computing,25,10,15,25,75,A,7.07,70,Fail
+S0769,Student 0769,Male,21,Computer Science,3,7,Machine Learning,28,8,12,38,86,A+,8.93,89,Pass
+S0770,Student 0770,Male,21,Electronics,3,5,DBMS,18,10,10,21,59,B,5.91,70,Fail
+S0771,Student 0771,Female,22,Electronics,2,4,Mathematics,21,6,13,26,66,B+,6.57,97,Pass
+S0772,Student 0772,Male,23,Electronics,3,5,Cloud Computing,23,7,9,34,73,A,7.3,57,Fail
+S0773,Student 0773,Female,19,Computer Science,2,8,Machine Learning,21,7,15,43,86,A+,8.97,76,Pass
+S0774,Student 0774,Female,21,Mechanical,2,1,DBMS,18,6,13,20,57,B,5.24,90,Pass
+S0775,Student 0775,Male,20,Computer Science,3,1,Python,21,7,12,25,65,B+,6.96,69,Fail
+S0776,Student 0776,Male,21,Civil,2,3,Data Structures,18,7,12,49,86,A+,8.03,61,Fail
+S0777,Student 0777,Female,23,Information Technology,3,4,DBMS,25,7,13,45,90,O,9.19,78,Pass
+S0778,Student 0778,Female,22,Information Technology,1,3,Data Structures,30,7,11,37,85,A+,8.73,79,Pass
+S0779,Student 0779,Male,23,Mechanical,2,1,Machine Learning,27,7,12,45,91,O,8.89,64,Fail
+S0780,Student 0780,Male,22,Electronics,2,8,Data Structures,29,6,15,45,95,O,9.64,97,Pass
+S0781,Student 0781,Female,23,Mechanical,3,8,Machine Learning,25,7,13,42,87,A+,8.73,78,Pass
+S0782,Student 0782,Female,24,Mechanical,4,5,Machine Learning,24,10,8,26,68,B+,7.27,69,Fail
+S0783,Student 0783,Male,19,Computer Science,4,4,DBMS,24,9,10,49,92,O,8.91,78,Pass
+S0784,Student 0784,Female,21,Information Technology,3,8,Machine Learning,23,7,8,34,72,A,7.35,87,Pass
+S0785,Student 0785,Female,19,Mechanical,4,7,DBMS,30,9,13,28,80,A+,7.43,79,Pass
+S0786,Student 0786,Male,18,Electronics,1,6,Python,22,10,9,45,86,A+,9.11,72,Fail
+S0787,Student 0787,Female,19,Information Technology,3,1,Machine Learning,21,8,11,41,81,A+,7.8,76,Pass
+S0788,Student 0788,Female,21,Civil,2,5,Python,30,8,12,46,96,O,9.94,77,Pass
+S0789,Student 0789,Male,21,Civil,1,8,Mathematics,26,7,14,27,74,A,7.67,69,Fail
+S0790,Student 0790,Female,19,Computer Science,4,8,DBMS,30,6,13,47,96,O,9.51,67,Fail
+S0791,Student 0791,Female,20,Mechanical,4,1,DBMS,20,10,10,29,69,B+,6.9,55,Fail
+S0792,Student 0792,Male,19,Computer Science,4,7,Mathematics,30,9,12,30,81,A+,7.53,92,Pass
+S0793,Student 0793,Male,20,Computer Science,3,7,Cloud Computing,21,9,9,37,76,A,7.23,79,Pass
+S0794,Student 0794,Male,19,Civil,4,5,Python,20,6,10,21,57,B,5.82,99,Pass
+S0795,Student 0795,Male,20,Computer Science,1,7,DBMS,21,7,12,41,81,A+,7.58,88,Pass
+S0796,Student 0796,Female,23,Civil,1,3,DBMS,24,9,10,23,66,B+,6.64,63,Fail
+S0797,Student 0797,Male,22,Information Technology,4,4,Data Structures,21,8,14,46,89,A+,9.1,100,Pass
+S0798,Student 0798,Female,18,Civil,3,4,Machine Learning,29,9,12,26,76,A,8.19,55,Fail
+S0799,Student 0799,Female,23,Mechanical,2,6,Machine Learning,25,9,15,38,87,A+,8.98,57,Fail
+S0800,Student 0800,Female,21,Mechanical,3,5,Cloud Computing,27,7,14,27,75,A,7.98,66,Fail
+S0801,Student 0801,Female,23,Mechanical,2,2,Cloud Computing,29,6,11,48,94,O,9.13,65,Fail
+S0802,Student 0802,Female,21,Information Technology,2,8,Cloud Computing,30,10,9,31,80,A+,8.31,59,Fail
+S0803,Student 0803,Female,21,Mechanical,2,5,Data Structures,26,6,15,20,67,B+,6.87,59,Fail
+S0804,Student 0804,Female,23,Electronics,4,4,Cloud Computing,18,6,12,23,59,B,6.4,100,Pass
+S0805,Student 0805,Female,24,Mechanical,4,8,Python,19,10,11,42,82,A+,7.77,83,Pass
+S0806,Student 0806,Male,18,Computer Science,2,1,Machine Learning,19,7,12,23,61,B+,6.39,89,Pass
+S0807,Student 0807,Male,21,Information Technology,3,3,Cloud Computing,23,7,11,42,83,A+,8.77,57,Fail
+S0808,Student 0808,Female,24,Information Technology,1,7,Mathematics,22,9,8,39,78,A,7.26,55,Fail
+S0809,Student 0809,Female,24,Computer Science,2,6,Data Structures,21,6,8,33,68,B+,7.39,56,Fail
+S0810,Student 0810,Female,20,Computer Science,1,4,Python,30,7,10,21,68,B+,6.82,81,Pass
+S0811,Student 0811,Female,19,Civil,2,4,Machine Learning,24,9,9,27,69,B+,6.43,68,Fail
+S0812,Student 0812,Female,23,Information Technology,4,6,Python,24,7,15,27,73,A,7.49,59,Fail
+S0813,Student 0813,Male,23,Civil,3,1,Python,21,9,12,44,86,A+,8.6,93,Pass
+S0814,Student 0814,Male,23,Civil,2,5,Python,27,8,14,41,90,O,8.56,99,Pass
+S0815,Student 0815,Male,22,Electronics,4,2,DBMS,18,10,15,32,75,A,7.67,87,Pass
+S0816,Student 0816,Male,18,Civil,1,4,Python,27,6,12,27,72,A,7.51,82,Pass
+S0817,Student 0817,Female,23,Computer Science,3,8,DBMS,21,7,14,26,68,B+,6.25,96,Pass
+S0818,Student 0818,Male,24,Electronics,2,5,DBMS,28,6,14,40,88,A+,9.1,73,Fail
+S0819,Student 0819,Male,22,Electronics,3,4,Data Structures,26,6,11,45,88,A+,9.04,98,Pass
+S0820,Student 0820,Male,18,Mechanical,3,3,Cloud Computing,28,6,9,47,90,O,8.48,86,Pass
+S0821,Student 0821,Female,20,Computer Science,2,3,Python,20,10,11,27,68,B+,6.29,87,Pass
+S0822,Student 0822,Male,20,Computer Science,2,4,Cloud Computing,20,10,11,29,70,A,7.09,73,Fail
+S0823,Student 0823,Female,24,Mechanical,1,6,Cloud Computing,24,7,15,34,80,A+,8.01,82,Pass
+S0824,Student 0824,Male,20,Computer Science,4,1,Cloud Computing,24,6,12,39,81,A+,7.68,89,Pass
+S0825,Student 0825,Female,19,Mechanical,4,5,Cloud Computing,22,9,15,22,68,B+,6.36,76,Pass
+S0826,Student 0826,Female,21,Computer Science,2,1,Python,26,8,15,32,81,A+,8.63,81,Pass
+S0827,Student 0827,Female,20,Mechanical,3,2,Cloud Computing,18,6,14,49,87,A+,8.29,91,Pass
+S0828,Student 0828,Male,24,Electronics,4,6,Mathematics,18,9,14,43,84,A+,8.09,70,Fail
+S0829,Student 0829,Male,18,Electronics,1,3,DBMS,27,9,10,28,74,A,7.52,70,Fail
+S0830,Student 0830,Male,24,Information Technology,1,7,Cloud Computing,29,10,9,36,84,A+,8.85,67,Fail
+S0831,Student 0831,Male,18,Mechanical,3,5,Machine Learning,26,9,12,43,90,O,9.3,81,Pass
+S0832,Student 0832,Male,24,Civil,3,3,DBMS,29,7,14,42,92,O,8.61,74,Fail
+S0833,Student 0833,Male,19,Mechanical,1,2,Python,30,9,14,40,93,O,9.58,73,Fail
+S0834,Student 0834,Male,19,Electronics,2,3,Data Structures,25,7,9,34,75,A,7.88,91,Pass
+S0835,Student 0835,Female,18,Information Technology,2,4,DBMS,24,9,9,47,89,A+,8.5,95,Pass
+S0836,Student 0836,Male,18,Mechanical,1,5,Python,23,6,11,35,75,A,7.71,86,Pass
+S0837,Student 0837,Female,22,Information Technology,3,1,Mathematics,27,6,9,26,68,B+,7.15,88,Pass
+S0838,Student 0838,Female,20,Civil,3,8,Cloud Computing,30,8,14,30,82,A+,8.42,78,Pass
+S0839,Student 0839,Male,21,Computer Science,3,7,Cloud Computing,27,6,13,47,93,O,9.67,76,Pass
+S0840,Student 0840,Male,20,Mechanical,2,1,Machine Learning,19,10,12,50,91,O,9.4,99,Pass
+S0841,Student 0841,Male,24,Mechanical,4,7,Mathematics,21,6,13,20,60,B+,5.83,95,Pass
+S0842,Student 0842,Female,23,Electronics,4,4,Machine Learning,25,9,9,31,74,A,7.93,82,Pass
+S0843,Student 0843,Female,24,Information Technology,4,5,Machine Learning,21,7,8,24,60,B+,6.36,86,Pass
+S0844,Student 0844,Male,18,Civil,4,3,Cloud Computing,19,9,11,27,66,B+,6.2,68,Fail
+S0845,Student 0845,Male,23,Mechanical,1,3,DBMS,24,8,11,43,86,A+,8.8,71,Fail
+S0846,Student 0846,Female,23,Computer Science,4,2,Mathematics,23,7,9,40,79,A,7.75,76,Pass
+S0847,Student 0847,Male,23,Civil,4,4,Data Structures,22,6,12,22,62,B+,5.71,62,Fail
+S0848,Student 0848,Male,24,Information Technology,3,3,DBMS,24,10,8,29,71,A,7.21,58,Fail
+S0849,Student 0849,Female,20,Mechanical,4,6,DBMS,30,7,11,23,71,A,6.51,80,Pass
+S0850,Student 0850,Male,22,Computer Science,3,4,Cloud Computing,28,9,10,39,86,A+,8.18,73,Fail
+S0851,Student 0851,Female,18,Electronics,3,2,DBMS,29,10,15,40,94,O,9.39,68,Fail
+S0852,Student 0852,Female,20,Electronics,2,4,Mathematics,30,7,8,49,94,O,9.83,66,Fail
+S0853,Student 0853,Female,20,Computer Science,1,7,DBMS,24,9,13,44,90,O,8.87,80,Pass
+S0854,Student 0854,Male,22,Computer Science,4,2,Data Structures,23,10,8,47,88,A+,8.56,100,Pass
+S0855,Student 0855,Male,20,Computer Science,4,8,DBMS,20,7,11,45,83,A+,8.58,67,Fail
+S0856,Student 0856,Male,18,Civil,1,3,Cloud Computing,24,7,8,23,62,B+,6.77,77,Pass
+S0857,Student 0857,Female,20,Information Technology,3,7,Data Structures,28,9,11,21,69,B+,6.59,62,Fail
+S0858,Student 0858,Female,20,Civil,2,7,Mathematics,30,6,15,47,98,O,9.66,96,Pass
+S0859,Student 0859,Female,20,Information Technology,1,2,Python,19,9,11,20,59,B,5.99,92,Pass
+S0860,Student 0860,Male,23,Information Technology,2,7,Cloud Computing,28,9,12,38,87,A+,8.22,63,Fail
+S0861,Student 0861,Male,24,Civil,2,7,Mathematics,18,9,15,22,64,B+,6.8,88,Pass
+S0862,Student 0862,Male,18,Computer Science,1,3,Machine Learning,29,7,8,37,81,A+,8.46,83,Pass
+S0863,Student 0863,Female,22,Computer Science,2,3,Python,26,8,8,22,64,B+,6.41,62,Fail
+S0864,Student 0864,Female,23,Computer Science,4,1,Data Structures,22,6,12,41,81,A+,8.03,89,Pass
+S0865,Student 0865,Male,19,Electronics,3,4,Mathematics,19,6,11,21,57,B,5.27,67,Fail
+S0866,Student 0866,Female,23,Civil,2,6,DBMS,20,10,14,22,66,B+,6.31,90,Pass
+S0867,Student 0867,Female,23,Computer Science,4,8,Python,22,9,10,37,78,A,7.28,68,Fail
+S0868,Student 0868,Male,18,Computer Science,3,3,Cloud Computing,20,8,14,32,74,A,7.96,56,Fail
+S0869,Student 0869,Female,24,Electronics,1,2,Mathematics,26,9,9,30,74,A,6.91,95,Pass
+S0870,Student 0870,Male,19,Electronics,2,4,DBMS,18,6,14,27,65,B+,7.04,79,Pass
+S0871,Student 0871,Male,19,Civil,3,8,Python,26,8,12,37,83,A+,8.43,72,Fail
+S0872,Student 0872,Male,23,Electronics,4,3,DBMS,30,10,14,35,89,A+,8.45,92,Pass
+S0873,Student 0873,Male,23,Civil,2,3,Data Structures,24,10,12,21,67,B+,7.27,95,Pass
+S0874,Student 0874,Female,22,Civil,4,8,Data Structures,25,8,15,36,84,A+,8.13,73,Fail
+S0875,Student 0875,Male,18,Computer Science,3,2,DBMS,24,8,9,40,81,A+,7.59,60,Fail
+S0876,Student 0876,Female,23,Computer Science,1,2,Mathematics,22,10,15,45,92,O,9.75,55,Fail
+S0877,Student 0877,Male,23,Civil,2,8,Cloud Computing,26,10,9,32,77,A,7.84,55,Fail
+S0878,Student 0878,Male,19,Mechanical,3,4,Mathematics,28,10,8,39,85,A+,9.06,83,Pass
+S0879,Student 0879,Male,20,Information Technology,3,3,Machine Learning,23,6,14,35,78,A,7.4,79,Pass
+S0880,Student 0880,Female,19,Computer Science,1,5,DBMS,25,8,12,26,71,A,7.39,55,Fail
+S0881,Student 0881,Female,20,Electronics,1,8,Machine Learning,25,6,13,20,64,B+,6.35,94,Pass
+S0882,Student 0882,Male,18,Information Technology,1,6,Mathematics,20,9,13,20,62,B+,6.12,61,Fail
+S0883,Student 0883,Female,21,Civil,2,7,Python,25,6,10,44,85,A+,8.2,97,Pass
+S0884,Student 0884,Female,19,Electronics,3,6,Cloud Computing,20,10,12,23,65,B+,6.69,83,Pass
+S0885,Student 0885,Female,21,Computer Science,3,7,Python,23,7,9,26,65,B+,5.95,73,Fail
+S0886,Student 0886,Female,24,Electronics,1,3,Mathematics,21,9,12,23,65,B+,6.49,81,Pass
+S0887,Student 0887,Male,19,Computer Science,3,7,Machine Learning,29,9,10,23,71,A,7.45,61,Fail
+S0888,Student 0888,Female,20,Electronics,1,4,Python,28,8,14,39,89,A+,8.82,55,Fail
+S0889,Student 0889,Female,23,Mechanical,1,7,Data Structures,27,7,10,27,71,A,7.42,72,Fail
+S0890,Student 0890,Male,19,Computer Science,4,4,Cloud Computing,29,6,10,26,71,A,7.25,92,Pass
+S0891,Student 0891,Male,24,Information Technology,2,7,Python,22,7,10,33,72,A,7.34,56,Fail
+S0892,Student 0892,Female,23,Information Technology,4,7,Machine Learning,22,7,11,30,70,A,6.98,82,Pass
+S0893,Student 0893,Male,19,Information Technology,3,2,DBMS,23,8,13,42,86,A+,8.3,81,Pass
+S0894,Student 0894,Male,21,Information Technology,1,1,Mathematics,29,8,11,29,77,A,7.44,85,Pass
+S0895,Student 0895,Male,20,Computer Science,3,8,DBMS,23,8,9,23,63,B+,5.72,97,Pass
+S0896,Student 0896,Male,19,Electronics,3,6,Data Structures,28,8,11,38,85,A+,8.0,79,Pass
+S0897,Student 0897,Male,22,Civil,1,1,Machine Learning,28,7,11,42,88,A+,9.31,83,Pass
+S0898,Student 0898,Female,24,Civil,3,5,Mathematics,25,7,10,21,63,B+,5.93,63,Fail
+S0899,Student 0899,Male,19,Civil,3,6,Cloud Computing,28,6,14,22,70,A,6.9,85,Pass
+S0900,Student 0900,Female,21,Civil,3,3,DBMS,18,10,8,45,81,A+,7.73,99,Pass
+S0901,Student 0901,Female,19,Civil,1,3,Cloud Computing,30,10,14,37,91,O,8.98,79,Pass
+S0902,Student 0902,Female,20,Computer Science,1,3,Machine Learning,21,10,8,48,87,A+,8.65,87,Pass
+S0903,Student 0903,Male,23,Computer Science,3,5,Machine Learning,19,7,11,21,58,B,5.49,89,Pass
+S0904,Student 0904,Male,23,Computer Science,3,3,DBMS,30,6,11,46,93,O,9.34,68,Fail
+S0905,Student 0905,Female,20,Electronics,3,6,Python,29,10,12,43,94,O,9.29,63,Fail
+S0906,Student 0906,Male,23,Information Technology,1,6,Data Structures,29,8,10,28,75,A,7.54,56,Fail
+S0907,Student 0907,Female,19,Mechanical,3,4,Cloud Computing,21,8,12,26,67,B+,6.86,92,Pass
+S0908,Student 0908,Male,19,Mechanical,2,7,DBMS,20,9,9,35,73,A,7.25,66,Fail
+S0909,Student 0909,Male,18,Civil,4,3,Mathematics,22,6,12,25,65,B+,6.88,66,Fail
+S0910,Student 0910,Male,22,Computer Science,1,7,Data Structures,25,9,9,43,86,A+,8.16,88,Pass
+S0911,Student 0911,Female,19,Information Technology,4,7,Python,19,6,8,24,57,B,6.02,70,Fail
+S0912,Student 0912,Female,24,Civil,1,1,Python,26,8,9,26,69,B+,6.88,63,Fail
+S0913,Student 0913,Male,18,Computer Science,3,6,Cloud Computing,20,7,8,37,72,A,6.92,99,Pass
+S0914,Student 0914,Female,21,Information Technology,1,5,Python,26,9,10,20,65,B+,5.93,69,Fail
+S0915,Student 0915,Male,18,Computer Science,3,5,Data Structures,28,9,9,35,81,A+,8.69,65,Fail
+S0916,Student 0916,Male,19,Electronics,3,2,Machine Learning,23,6,13,49,91,O,9.57,60,Fail
+S0917,Student 0917,Male,20,Mechanical,3,3,Mathematics,24,7,12,39,82,A+,8.02,73,Fail
+S0918,Student 0918,Male,20,Mechanical,3,5,Mathematics,30,6,8,47,91,O,9.43,64,Fail
+S0919,Student 0919,Female,19,Computer Science,4,8,Mathematics,30,9,9,23,71,A,7.01,91,Pass
+S0920,Student 0920,Female,22,Information Technology,3,3,Data Structures,30,9,13,30,82,A+,8.11,86,Pass
+S0921,Student 0921,Male,21,Electronics,2,4,Cloud Computing,24,10,15,37,86,A+,8.59,89,Pass
+S0922,Student 0922,Male,20,Information Technology,4,4,Mathematics,19,7,13,20,59,B,6.49,68,Fail
+S0923,Student 0923,Male,24,Civil,4,3,Python,18,8,13,47,86,A+,8.35,63,Fail
+S0924,Student 0924,Female,23,Civil,4,4,Data Structures,21,6,10,23,60,B+,6.24,99,Pass
+S0925,Student 0925,Male,19,Information Technology,4,6,Python,29,6,9,35,79,A,8.34,93,Pass
+S0926,Student 0926,Male,23,Electronics,2,2,Data Structures,19,6,14,24,63,B+,6.26,66,Fail
+S0927,Student 0927,Female,18,Civil,3,8,Cloud Computing,29,8,15,45,97,O,9.93,96,Pass
+S0928,Student 0928,Female,22,Computer Science,1,1,Machine Learning,30,7,10,20,67,B+,7.1,80,Pass
+S0929,Student 0929,Male,23,Electronics,3,4,Cloud Computing,20,8,9,36,73,A,7.87,79,Pass
+S0930,Student 0930,Female,23,Computer Science,4,1,Data Structures,24,7,9,46,86,A+,8.56,99,Pass
+S0931,Student 0931,Male,20,Mechanical,4,3,Python,30,8,14,26,78,A,7.33,72,Fail
+S0932,Student 0932,Female,19,Civil,3,1,Data Structures,22,7,9,22,60,B+,6.12,68,Fail
+S0933,Student 0933,Female,18,Civil,2,1,Data Structures,22,6,8,38,74,A,6.85,85,Pass
+S0934,Student 0934,Male,23,Electronics,1,6,DBMS,24,10,11,30,75,A,7.77,80,Pass
+S0935,Student 0935,Female,22,Information Technology,3,7,Mathematics,26,6,10,20,62,B+,6.56,92,Pass
+S0936,Student 0936,Male,19,Information Technology,3,3,Data Structures,28,9,9,48,94,O,8.91,95,Pass
+S0937,Student 0937,Female,18,Computer Science,2,6,Cloud Computing,30,7,13,29,79,A,8.05,78,Pass
+S0938,Student 0938,Male,24,Mechanical,2,4,Machine Learning,27,6,10,38,81,A+,8.69,95,Pass
+S0939,Student 0939,Female,19,Information Technology,2,5,Machine Learning,30,6,15,23,74,A,7.18,84,Pass
+S0940,Student 0940,Female,20,Information Technology,3,6,DBMS,19,6,10,42,77,A,7.41,84,Pass
+S0941,Student 0941,Male,21,Mechanical,2,2,Machine Learning,25,6,13,47,91,O,8.98,73,Fail
+S0942,Student 0942,Male,23,Electronics,3,6,Python,28,9,15,28,80,A+,7.45,98,Pass
+S0943,Student 0943,Male,21,Computer Science,1,3,Python,22,9,10,38,79,A,8.32,80,Pass
+S0944,Student 0944,Male,21,Mechanical,1,6,Cloud Computing,25,10,15,23,73,A,6.92,60,Fail
+S0945,Student 0945,Female,18,Mechanical,2,7,DBMS,19,8,13,39,79,A,7.56,86,Pass
+S0946,Student 0946,Male,22,Electronics,4,1,Machine Learning,20,9,10,40,79,A,7.68,68,Fail
+S0947,Student 0947,Female,20,Mechanical,1,6,Cloud Computing,25,7,8,26,66,B+,7.14,56,Fail
+S0948,Student 0948,Female,24,Electronics,2,2,Data Structures,19,8,14,22,63,B+,6.75,74,Fail
+S0949,Student 0949,Female,21,Mechanical,2,5,Data Structures,18,6,14,30,68,B+,6.4,74,Fail
+S0950,Student 0950,Male,18,Mechanical,4,3,Mathematics,24,8,14,46,92,O,9.27,55,Fail
+S0951,Student 0951,Female,24,Civil,2,6,Mathematics,29,8,8,24,69,B+,7.42,84,Pass
+S0952,Student 0952,Male,18,Electronics,1,7,DBMS,26,6,15,50,97,O,9.86,63,Fail
+S0953,Student 0953,Male,23,Computer Science,2,7,Mathematics,26,7,14,26,73,A,6.95,77,Pass
+S0954,Student 0954,Female,21,Civil,1,6,DBMS,18,8,12,36,74,A,7.64,62,Fail
+S0955,Student 0955,Female,19,Mechanical,3,6,Machine Learning,24,10,13,23,70,A,6.95,66,Fail
+S0956,Student 0956,Male,18,Civil,2,7,Cloud Computing,22,9,12,42,85,A+,9.03,94,Pass
+S0957,Student 0957,Male,23,Information Technology,1,1,Machine Learning,24,6,15,43,88,A+,9.31,94,Pass
+S0958,Student 0958,Female,18,Mechanical,1,5,Cloud Computing,21,7,15,37,80,A+,7.54,79,Pass
+S0959,Student 0959,Female,20,Electronics,4,7,Mathematics,29,9,8,50,96,O,9.94,78,Pass
+S0960,Student 0960,Female,24,Electronics,3,7,Mathematics,21,6,14,21,62,B+,5.63,55,Fail
+S0961,Student 0961,Female,24,Civil,3,6,Data Structures,27,9,11,37,84,A+,8.03,80,Pass
+S0962,Student 0962,Female,19,Information Technology,4,3,Mathematics,24,7,14,48,93,O,9.32,75,Pass
+S0963,Student 0963,Female,19,Information Technology,2,2,Mathematics,27,9,12,46,94,O,8.99,90,Pass
+S0964,Student 0964,Male,22,Information Technology,1,1,Cloud Computing,18,10,10,20,58,B,6.05,94,Pass
+S0965,Student 0965,Female,19,Mechanical,1,3,Cloud Computing,28,8,10,27,73,A,7.78,96,Pass
+S0966,Student 0966,Male,18,Civil,2,7,DBMS,28,6,12,22,68,B+,6.95,64,Fail
+S0967,Student 0967,Female,24,Mechanical,1,2,Data Structures,22,8,10,22,62,B+,6.19,59,Fail
+S0968,Student 0968,Male,19,Computer Science,4,2,Cloud Computing,30,6,14,22,72,A,7.75,86,Pass
+S0969,Student 0969,Male,18,Mechanical,4,6,Mathematics,25,7,10,29,71,A,7.58,55,Fail
+S0970,Student 0970,Male,19,Electronics,3,8,Machine Learning,27,10,8,25,70,A,7.29,88,Pass
+S0971,Student 0971,Male,18,Civil,1,1,Machine Learning,26,7,11,47,91,O,8.64,78,Pass
+S0972,Student 0972,Male,20,Electronics,2,4,Python,29,7,12,28,76,A,7.24,85,Pass
+S0973,Student 0973,Female,19,Civil,3,8,Mathematics,30,9,14,36,89,A+,9.41,80,Pass
+S0974,Student 0974,Female,21,Computer Science,3,7,Python,27,10,12,25,74,A,7.94,68,Fail
+S0975,Student 0975,Female,23,Mechanical,4,5,DBMS,27,6,14,33,80,A+,8.08,67,Fail
+S0976,Student 0976,Female,21,Information Technology,4,3,Python,26,8,14,29,77,A,8.09,93,Pass
+S0977,Student 0977,Female,20,Information Technology,1,3,DBMS,24,7,13,27,71,A,6.76,59,Fail
+S0978,Student 0978,Female,19,Computer Science,3,2,Python,23,6,13,26,68,B+,6.88,84,Pass
+S0979,Student 0979,Male,22,Civil,1,7,DBMS,27,7,11,23,68,B+,6.53,90,Pass
+S0980,Student 0980,Female,21,Mechanical,4,6,DBMS,21,7,8,45,81,A+,8.1,86,Pass
+S0981,Student 0981,Male,23,Information Technology,1,8,Data Structures,27,8,14,27,76,A,7.03,91,Pass
+S0982,Student 0982,Male,20,Civil,1,8,DBMS,20,9,8,48,85,A+,9.0,89,Pass
+S0983,Student 0983,Female,18,Information Technology,1,8,Python,30,9,12,28,79,A,8.2,75,Pass
+S0984,Student 0984,Male,24,Civil,3,8,Machine Learning,18,9,12,42,81,A+,8.09,84,Pass
+S0985,Student 0985,Female,19,Electronics,1,1,Data Structures,18,6,10,23,57,B,6.13,75,Pass
+S0986,Student 0986,Female,24,Computer Science,1,4,Mathematics,30,8,8,49,95,O,9.94,99,Pass
+S0987,Student 0987,Female,20,Information Technology,1,1,DBMS,19,8,13,42,82,A+,8.55,94,Pass
+S0988,Student 0988,Female,23,Computer Science,2,8,Python,20,8,10,44,82,A+,8.67,92,Pass
+S0989,Student 0989,Female,24,Mechanical,1,4,Machine Learning,25,9,12,30,76,A,7.27,85,Pass
+S0990,Student 0990,Male,23,Electronics,1,6,Machine Learning,21,7,9,22,59,B,5.37,86,Pass
+S0991,Student 0991,Female,24,Computer Science,4,7,Data Structures,25,6,13,26,70,A,7.31,92,Pass
+S0992,Student 0992,Female,24,Electronics,4,3,Machine Learning,19,7,11,49,86,A+,8.46,78,Pass
+S0993,Student 0993,Male,19,Civil,2,7,Data Structures,19,8,14,25,66,B+,6.37,98,Pass
+S0994,Student 0994,Female,20,Mechanical,1,2,Data Structures,18,9,10,28,65,B+,6.47,56,Fail
+S0995,Student 0995,Female,18,Electronics,1,2,DBMS,24,7,10,32,73,A,7.22,87,Pass
+S0996,Student 0996,Male,22,Mechanical,3,6,Python,18,9,14,26,67,B+,6.33,73,Fail
+S0997,Student 0997,Male,18,Electronics,4,7,Python,28,6,11,50,95,O,9.16,62,Fail
+S0998,Student 0998,Female,21,Civil,3,4,Python,26,6,12,27,71,A,7.34,94,Pass
+S0999,Student 0999,Female,23,Mechanical,1,4,Mathematics,29,8,15,26,78,A,8.14,65,Fail
+S1000,Student 1000,Male,19,Electronics,3,1,Python,20,10,15,43,88,A+,9.22,74,Fail
